@@ -1,0 +1,64 @@
+ LOG : The program has entered the main loop
+ LOG : Found some a - , string -lll
+ LOG : Parser was called .
+ LOG : Returned -l flag = 1, and -a flag = 0 .
+ LOG : File path .//temp_run.sh 
+ LOG : Initally name of file .//temp_run.sh
+ LOG : Encountered / :: now  /temp_run.sh
+ LOG : Encountered / :: now  temp_run.sh
+ LOG : On stripping .//temp_run.sh we got name temp_run.sh
+ LOG : entered display for l flag
+ LOG : File path .//err_run.sh 
+ LOG : Initally name of file .//err_run.sh
+ LOG : Encountered / :: now  /err_run.sh
+ LOG : Encountered / :: now  err_run.sh
+ LOG : On stripping .//err_run.sh we got name err_run.sh
+ LOG : entered display for l flag
+ LOG : File path .//tags 
+ LOG : Initally name of file .//tags
+ LOG : Encountered / :: now  /tags
+ LOG : Encountered / :: now  tags
+ LOG : On stripping .//tags we got name tags
+ LOG : entered display for l flag
+ LOG : File path .//run 
+ LOG : Initally name of file .//run
+ LOG : Encountered / :: now  /run
+ LOG : Encountered / :: now  run
+ LOG : On stripping .//run we got name run
+ LOG : entered display for l flag
+ LOG : File path .//logg 
+ LOG : Initally name of file .//logg
+ LOG : Encountered / :: now  /logg
+ LOG : Encountered / :: now  logg
+ LOG : On stripping .//logg we got name logg
+ LOG : entered display for l flag
+ LOG : File path .//sdfdssssssssssssssssssssssssssssssssss 
+ LOG : Initally name of file .//sdfdssssssssssssssssssssssssssssssssss
+ LOG : Encountered / :: now  /sdfdssssssssssssssssssssssssssssssssss
+ LOG : Encountered / :: now  sdfdssssssssssssssssssssssssssssssssss
+ LOG : On stripping .//sdfdssssssssssssssssssssssssssssssssss we got name sdfdssssssssssssssssssssssssssssssssss
+ LOG : entered display for l flag
+ LOG : File path .//sdfdssssssssssssssssssssssssssssssssssfffffffffffffffffffffffffffff 
+ LOG : Initally name of file .//sdfdssssssssssssssssssssssssssssssssssfffffffffffffffffffffffffffff
+ LOG : Encountered / :: now  /sdfdssssssssssssssssssssssssssssssssssfffffffffffffffffffffffffffff
+ LOG : Encountered / :: now  sdfdssssssssssssssssssssssssssssssssssfffffffffffffffffffffffffffff
+ LOG : On stripping .//sdfdssssssssssssssssssssssssssssssssssfffffffffffffffffffffffffffff we got name sdfdssssssssssssssssssssssssssssssssssfffffffffffffffffffffffffffff
+ LOG : entered display for l flag
+ LOG : File path .//sdfdssssssssssssssssssssssssssssssssssfffffffffffffffffffffffffffffgggggggggggggggggggggggggg 
+ LOG : Initally name of file .//sdfdssssssssssssssssssssssssssssssssssfffffffffffffffffffffffffffffgggggggggggggggggggggggggg
+ LOG : Encountered / :: now  /sdfdssssssssssssssssssssssssssssssssssfffffffffffffffffffffffffffffgggggggggggggggggggggggggg
+ LOG : Encountered / :: now  sdfdssssssssssssssssssssssssssssssssssfffffffffffffffffffffffffffffgggggggggggggggggggggggggg
+ LOG : On stripping .//sdfdssssssssssssssssssssssssssssssssssfffffffffffffffffffffffffffffgggggggggggggggggggggggggg we got name sdfdssssssssssssssssssssssssssssssssssfffffffffffffffffffffffffffffgggggggggggggggggggggggggg
+ LOG : entered display for l flag
+ LOG : File path .//err 
+ LOG : Initally name of file .//err
+ LOG : Encountered / :: now  /err
+ LOG : Encountered / :: now  err
+ LOG : On stripping .//err we got name err
+ LOG : entered display for l flag
+ LOG : File path .//sh 
+ LOG : Initally name of file .//sh
+ LOG : Encountered / :: now  /sh
+ LOG : Encountered / :: now  sh
+ LOG : On stripping .//sh we got name sh
+ LOG : entered display for l flag

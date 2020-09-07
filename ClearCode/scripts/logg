@@ -1,0 +1,5888 @@
+
+ Thrd Created status (0) :: 0
+
+
+ Thread starting
+
+Mem:_Task_Starting_...
+
+in MAllocWrapper
+Mem : Malloc called -- put in index 0
+in MAllocWrapper
+Mem : Malloc called -- put in index 1
+in MAllocWrapper
+Mem : Malloc called -- put in index 2
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 4
+in MAllocWrapper
+Mem : Malloc called -- put in index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+in MAllocWrapper
+Mem : Malloc called -- put in index 9
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 11
+in MAllocWrapper
+Mem : Malloc called -- put in index 12
+in MAllocWrapper
+Mem : Malloc called -- put in index 13
+in MAllocWrapper
+Mem : Malloc called -- put in index 14
+in MAllocWrapper
+Mem : Malloc called -- put in index 15
+in MAllocWrapper
+Mem : Malloc called -- put in index 16
+in MAllocWrapper
+Mem : Malloc called -- put in index 17
+Mem : Successfull free -- index 11
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 5
+Mem : Successfull free -- index 2
+Mem : Successfull free -- index 8
+Mem : Successfull free -- index 17
+Mem : Successfull free -- index 6
+Mem : Successfull free -- index 14
+Mem : Successfull free -- index 13
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 12
+Mem : Successfull free -- index 16
+Mem : Successfull free -- index 0
+in MAllocWrapper
+Mem : Malloc called -- put in index 0
+in MAllocWrapper
+Mem : Malloc called -- put in index 2
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 11
+in MAllocWrapper
+Mem : Malloc called -- put in index 12
+in MAllocWrapper
+Mem : Malloc called -- put in index 13
+in MAllocWrapper
+Mem : Malloc called -- put in index 14
+in MAllocWrapper
+Mem : Malloc called -- put in index 16
+in MAllocWrapper
+Mem : Malloc called -- put in index 17
+in MAllocWrapper
+Mem : Malloc called -- put in index 18
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 5
+Mem : Successfull free -- index 12
+Mem : Successfull free -- index 17
+Mem : Successfull free -- index 8
+Mem : Successfull free -- index 11
+Mem : Successfull free -- index 18
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 2
+Mem : Successfull free -- index 14
+Mem : Successfull free -- index 13
+Mem : Successfull free -- index 16
+Mem : Successfull free -- index 6
+Mem : Successfull free -- index 15
+in MAllocWrapper
+Mem : Malloc called -- put in index 2
+in MAllocWrapper
+Mem : Malloc called -- put in index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 11
+Mem : Successfull free -- index 11
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 8
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 6
+Mem : Successfull free -- index 5
+Mem : Successfull free -- index 2
+Mem : Successfull free -- index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 2
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+Mem : Successfull free -- index 8
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 6
+Mem : Successfull free -- index 5
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 2
+Mem : Successfull free -- index 0
+in MAllocWrapper
+Mem : Malloc called -- put in index 0
+in MAllocWrapper
+Mem : Malloc called -- put in index 2
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 11
+Mem : Successfull free -- index 11
+Mem : Successfull free -- index 8
+Mem : Successfull free -- index 5
+Mem : Successfull free -- index 6
+Mem : Successfull free -- index 2
+Mem : Successfull free -- index 9
+in MAllocWrapper
+Mem : Malloc called -- put in index 2
+in MAllocWrapper
+Mem : Malloc called -- put in index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+in MAllocWrapper
+Mem : Malloc called -- put in index 9
+in MAllocWrapper
+Mem : Malloc called -- put in index 11
+Mem : Successfull free -- index 11
+Mem : Successfull free -- index 8
+Mem : Successfull free -- index 5
+Mem : Successfull free -- index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 11
+in MAllocWrapper
+Mem : Malloc called -- put in index 12
+in MAllocWrapper
+Mem : Malloc called -- put in index 13
+in MAllocWrapper
+Mem : Malloc called -- put in index 14
+Mem : Successfull free -- index 13
+Mem : Successfull free -- index 14
+Mem : Successfull free -- index 12
+Mem : Successfull free -- index 11
+Mem : Successfull free -- index 8
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 9
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+Mem : Successfull free -- index 8
+Mem : Successfull free -- index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+in MAllocWrapper
+Mem : Malloc called -- put in index 9
+Mem : Successfull free -- index 9
+Mem : Successfull free -- index 8
+Mem : Successfull free -- index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+Mem : Successfull free -- index 6
+Mem : Successfull free -- index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+Mem : Successfull free -- index 8
+Mem : Successfull free -- index 6
+Mem : Successfull free -- index 2
+in MAllocWrapper
+Mem : Malloc called -- put in index 2
+Mem : Successfull free -- index 2
+Mem : Successfull free -- index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 2
+in MAllocWrapper
+Mem : Malloc called -- put in index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+in MAllocWrapper
+Mem : Malloc called -- put in index 9
+Mem : Successfull free -- index 5
+Mem : Successfull free -- index 9
+Mem : Successfull free -- index 8
+Mem : Successfull free -- index 6
+Mem : Successfull free -- index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 6
+Mem : Successfull free -- index 5
+Mem : Successfull free -- index 2
+in MAllocWrapper
+Mem : Malloc called -- put in index 2
+in MAllocWrapper
+Mem : Malloc called -- put in index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+in MAllocWrapper
+Mem : Malloc called -- put in index 9
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 11
+in MAllocWrapper
+Mem : Malloc called -- put in index 12
+in MAllocWrapper
+Mem : Malloc called -- put in index 13
+in MAllocWrapper
+Mem : Malloc called -- put in index 14
+in MAllocWrapper
+Mem : Malloc called -- put in index 15
+in MAllocWrapper
+Mem : Malloc called -- put in index 16
+in MAllocWrapper
+Mem : Malloc called -- put in index 17
+in MAllocWrapper
+Mem : Malloc called -- put in index 18
+in MAllocWrapper
+Mem : Malloc called -- put in index 19
+in MAllocWrapper
+Mem : Malloc called -- put in index 20
+Mem : Successfull free -- index 15
+Mem : Successfull free -- index 5
+Mem : Successfull free -- index 14
+Mem : Successfull free -- index 13
+Mem : Successfull free -- index 12
+Mem : Successfull free -- index 11
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 18
+Mem : Successfull free -- index 6
+Mem : Successfull free -- index 20
+Mem : Successfull free -- index 9
+Mem : Successfull free -- index 19
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 16
+Mem : Successfull free -- index 8
+Mem : Successfull free -- index 17
+Mem : Successfull free -- index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 5
+Mem : Successfull free -- index 6
+Mem : Successfull free -- index 2
+in MAllocWrapper
+Mem : Malloc called -- put in index 2
+in MAllocWrapper
+Mem : Malloc called -- put in index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+Mem : Successfull free -- index 5
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 6
+Mem : Successfull free -- index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 5
+Mem : Successfull free -- index 5
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 2
+in MAllocWrapper
+Mem : Malloc called -- put in index 2
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+Mem : Successfull free -- index 8
+Mem : Successfull free -- index 6
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 0
+in MAllocWrapper
+Mem : Malloc called -- put in index 0
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+Mem : Successfull free -- index 6
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 8
+Mem : Successfull free -- index 0
+Mem : Successfull free -- index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 0
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 0
+Mem : Successfull free -- index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 0
+Mem : Successfull free -- index 0
+Mem : Successfull free -- index 2
+in MAllocWrapper
+Mem : Malloc called -- put in index 0
+in MAllocWrapper
+Mem : Malloc called -- put in index 2
+Mem : Successfull free -- index 2
+Mem : Successfull free -- index 4
+in MAllocWrapper
+Mem : Malloc called -- put in index 2
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 4
+in MAllocWrapper
+Mem : Malloc called -- put in index 5
+Mem : Successfull free -- index 5
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 0
+in MAllocWrapper
+Mem : Malloc called -- put in index 0
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+in MAllocWrapper
+Mem : Malloc called -- put in index 9
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 11
+in MAllocWrapper
+Mem : Malloc called -- put in index 12
+in MAllocWrapper
+Mem : Malloc called -- put in index 13
+in MAllocWrapper
+Mem : Malloc called -- put in index 14
+in MAllocWrapper
+Mem : Malloc called -- put in index 15
+in MAllocWrapper
+Mem : Malloc called -- put in index 16
+in MAllocWrapper
+Mem : Malloc called -- put in index 17
+in MAllocWrapper
+Mem : Malloc called -- put in index 18
+in MAllocWrapper
+Mem : Malloc called -- put in index 19
+in MAllocWrapper
+Mem : Malloc called -- put in index 20
+in MAllocWrapper
+Mem : Malloc called -- put in index 21
+in MAllocWrapper
+Mem : Malloc called -- put in index 22
+in MAllocWrapper
+Mem : Malloc called -- put in index 23
+in MAllocWrapper
+Mem : Malloc called -- put in index 24
+in MAllocWrapper
+Mem : Malloc called -- put in index 25
+in MAllocWrapper
+Mem : Malloc called -- put in index 26
+in MAllocWrapper
+Mem : Malloc called -- put in index 27
+in MAllocWrapper
+Mem : Malloc called -- put in index 28
+in MAllocWrapper
+Mem : Malloc called -- put in index 29
+in MAllocWrapper
+Mem : Malloc called -- put in index 30
+in MAllocWrapper
+Mem : Malloc called -- put in index 31
+in MAllocWrapper
+Mem : Malloc called -- put in index 32
+in MAllocWrapper
+Mem : Malloc called -- put in index 33
+in MAllocWrapper
+Mem : Malloc called -- put in index 34
+in MAllocWrapper
+Mem : Malloc called -- put in index 35
+Mem : Successfull free -- index 24
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 28
+Mem : Successfull free -- index 14
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 20
+Mem : Successfull free -- index 31
+Mem : Successfull free -- index 8
+Mem : Successfull free -- index 26
+Mem : Successfull free -- index 16
+Mem : Successfull free -- index 6
+Mem : Successfull free -- index 22
+Mem : Successfull free -- index 12
+Mem : Successfull free -- index 30
+Mem : Successfull free -- index 18
+Mem : Successfull free -- index 33
+Mem : Successfull free -- index 32
+Mem : Successfull free -- index 34
+Mem : Successfull free -- index 35
+Mem : Successfull free -- index 4
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 4
+Mem : Successfull free -- index 4
+Mem : Successfull free -- index 29
+in MAllocWrapper
+Mem : Malloc called -- put in index 4
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 6
+Mem : Successfull free -- index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 6
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 8
+Mem : Successfull free -- index 4
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 4
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+Mem : Successfull free -- index 4
+Mem : Successfull free -- index 8
+Mem : Successfull free -- index 27
+in MAllocWrapper
+Mem : Malloc called -- put in index 4
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 12
+Mem : Successfull free -- index 12
+Mem : Successfull free -- index 8
+Mem : Successfull free -- index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+in MAllocWrapper
+Mem : Malloc called -- put in index 12
+in MAllocWrapper
+Mem : Malloc called -- put in index 14
+in MAllocWrapper
+Mem : Malloc called -- put in index 16
+in MAllocWrapper
+Mem : Malloc called -- put in index 18
+in MAllocWrapper
+Mem : Malloc called -- put in index 20
+in MAllocWrapper
+Mem : Malloc called -- put in index 22
+in MAllocWrapper
+Mem : Malloc called -- put in index 24
+Mem : Successfull free -- index 14
+Mem : Successfull free -- index 18
+Mem : Successfull free -- index 22
+Mem : Successfull free -- index 8
+Mem : Successfull free -- index 16
+Mem : Successfull free -- index 24
+Mem : Successfull free -- index 12
+Mem : Successfull free -- index 20
+Mem : Successfull free -- index 6
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 4
+in MAllocWrapper
+Mem : Malloc called -- put in index 4
+Mem : Successfull free -- index 4
+Mem : Successfull free -- index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 4
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 12
+in MAllocWrapper
+Mem : Malloc called -- put in index 14
+in MAllocWrapper
+Mem : Malloc called -- put in index 16
+Mem : Successfull free -- index 14
+Mem : Successfull free -- index 4
+Mem : Successfull free -- index 8
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 16
+Mem : Successfull free -- index 12
+Mem : Successfull free -- index 25
+in MAllocWrapper
+Mem : Malloc called -- put in index 4
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 12
+in MAllocWrapper
+Mem : Malloc called -- put in index 14
+Mem : Successfull free -- index 12
+Mem : Successfull free -- index 14
+Mem : Successfull free -- index 8
+Mem : Successfull free -- index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+in MAllocWrapper
+Mem : Malloc called -- put in index 12
+in MAllocWrapper
+Mem : Malloc called -- put in index 14
+in MAllocWrapper
+Mem : Malloc called -- put in index 16
+in MAllocWrapper
+Mem : Malloc called -- put in index 18
+in MAllocWrapper
+Mem : Malloc called -- put in index 20
+in MAllocWrapper
+Mem : Malloc called -- put in index 22
+in MAllocWrapper
+Mem : Malloc called -- put in index 24
+Mem : Successfull free -- index 6
+Mem : Successfull free -- index 22
+Mem : Successfull free -- index 24
+Mem : Successfull free -- index 8
+Mem : Successfull free -- index 18
+Mem : Successfull free -- index 20
+Mem : Successfull free -- index 12
+Mem : Successfull free -- index 14
+Mem : Successfull free -- index 16
+Mem : Successfull free -- index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 12
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 6
+Mem : Successfull free -- index 12
+Mem : Successfull free -- index 8
+Mem : Successfull free -- index 4
+in MAllocWrapper
+Mem : Malloc called -- put in index 4
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+Mem : Successfull free -- index 6
+Mem : Successfull free -- index 4
+Mem : Successfull free -- index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 4
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 12
+in MAllocWrapper
+Mem : Malloc called -- put in index 14
+in MAllocWrapper
+Mem : Malloc called -- put in index 16
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 4
+Mem : Successfull free -- index 8
+Mem : Successfull free -- index 12
+Mem : Successfull free -- index 14
+Mem : Successfull free -- index 16
+Mem : Successfull free -- index 23
+in MAllocWrapper
+Mem : Malloc called -- put in index 4
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 12
+in MAllocWrapper
+Mem : Malloc called -- put in index 14
+Mem : Successfull free -- index 12
+Mem : Successfull free -- index 14
+Mem : Successfull free -- index 8
+Mem : Successfull free -- index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+in MAllocWrapper
+Mem : Malloc called -- put in index 12
+in MAllocWrapper
+Mem : Malloc called -- put in index 14
+in MAllocWrapper
+Mem : Malloc called -- put in index 16
+in MAllocWrapper
+Mem : Malloc called -- put in index 18
+in MAllocWrapper
+Mem : Malloc called -- put in index 20
+in MAllocWrapper
+Mem : Malloc called -- put in index 22
+in MAllocWrapper
+Mem : Malloc called -- put in index 23
+in MAllocWrapper
+Mem : Malloc called -- put in index 24
+in MAllocWrapper
+Mem : Malloc called -- put in index 25
+in MAllocWrapper
+Mem : Malloc called -- put in index 26
+in MAllocWrapper
+Mem : Malloc called -- put in index 27
+in MAllocWrapper
+Mem : Malloc called -- put in index 28
+in MAllocWrapper
+Mem : Malloc called -- put in index 29
+in MAllocWrapper
+Mem : Malloc called -- put in index 30
+in MAllocWrapper
+Mem : Malloc called -- put in index 31
+in MAllocWrapper
+Mem : Malloc called -- put in index 32
+Mem : Successfull free -- index 20
+Mem : Successfull free -- index 24
+Mem : Successfull free -- index 32
+Mem : Successfull free -- index 31
+Mem : Successfull free -- index 30
+Mem : Successfull free -- index 18
+Mem : Successfull free -- index 8
+Mem : Successfull free -- index 16
+Mem : Successfull free -- index 29
+Mem : Successfull free -- index 12
+Mem : Successfull free -- index 28
+Mem : Successfull free -- index 6
+Mem : Successfull free -- index 14
+Mem : Successfull free -- index 27
+Mem : Successfull free -- index 23
+Mem : Successfull free -- index 25
+Mem : Successfull free -- index 26
+Mem : Successfull free -- index 22
+Mem : Successfull free -- index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 12
+in MAllocWrapper
+Mem : Malloc called -- put in index 14
+Mem : Successfull free -- index 6
+Mem : Successfull free -- index 12
+Mem : Successfull free -- index 14
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 8
+Mem : Successfull free -- index 4
+in MAllocWrapper
+Mem : Malloc called -- put in index 4
+Mem : Successfull free -- index 4
+Mem : Successfull free -- index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 4
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 12
+in MAllocWrapper
+Mem : Malloc called -- put in index 14
+in MAllocWrapper
+Mem : Malloc called -- put in index 16
+in MAllocWrapper
+Mem : Malloc called -- put in index 18
+Mem : Successfull free -- index 12
+Mem : Successfull free -- index 4
+Mem : Successfull free -- index 14
+Mem : Successfull free -- index 8
+Mem : Successfull free -- index 18
+Mem : Successfull free -- index 16
+Mem : Successfull free -- index 21
+in MAllocWrapper
+Mem : Malloc called -- put in index 4
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+in MAllocWrapper
+Mem : Malloc called -- put in index 12
+Mem : Successfull free -- index 12
+Mem : Successfull free -- index 8
+Mem : Successfull free -- index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+Mem : Successfull free -- index 8
+Mem : Successfull free -- index 4
+in MAllocWrapper
+Mem : Malloc called -- put in index 4
+Mem : Successfull free -- index 4
+Mem : Successfull free -- index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 4
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 12
+in MAllocWrapper
+Mem : Malloc called -- put in index 14
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 12
+Mem : Successfull free -- index 8
+Mem : Successfull free -- index 6
+Mem : Successfull free -- index 14
+Mem : Successfull free -- index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+Mem : Successfull free -- index 8
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 6
+Mem : Successfull free -- index 4
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 4
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 12
+in MAllocWrapper
+Mem : Malloc called -- put in index 14
+in MAllocWrapper
+Mem : Malloc called -- put in index 16
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 8
+Mem : Successfull free -- index 16
+Mem : Successfull free -- index 12
+Mem : Successfull free -- index 6
+Mem : Successfull free -- index 14
+Mem : Successfull free -- index 4
+Mem : Successfull free -- index 19
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 4
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 4
+Mem : Successfull free -- index 17
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 4
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 12
+in MAllocWrapper
+Mem : Malloc called -- put in index 14
+in MAllocWrapper
+Mem : Malloc called -- put in index 16
+Mem : Successfull free -- index 16
+Mem : Successfull free -- index 4
+Mem : Successfull free -- index 8
+Mem : Successfull free -- index 14
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 12
+Mem : Successfull free -- index 15
+in MAllocWrapper
+Mem : Malloc called -- put in index 4
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 12
+in MAllocWrapper
+Mem : Malloc called -- put in index 14
+Mem : Successfull free -- index 12
+Mem : Successfull free -- index 14
+Mem : Successfull free -- index 8
+Mem : Successfull free -- index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+in MAllocWrapper
+Mem : Malloc called -- put in index 12
+in MAllocWrapper
+Mem : Malloc called -- put in index 14
+in MAllocWrapper
+Mem : Malloc called -- put in index 15
+in MAllocWrapper
+Mem : Malloc called -- put in index 16
+in MAllocWrapper
+Mem : Malloc called -- put in index 17
+in MAllocWrapper
+Mem : Malloc called -- put in index 18
+in MAllocWrapper
+Mem : Malloc called -- put in index 19
+in MAllocWrapper
+Mem : Malloc called -- put in index 20
+in MAllocWrapper
+Mem : Malloc called -- put in index 21
+Mem : Successfull free -- index 15
+Mem : Successfull free -- index 21
+Mem : Successfull free -- index 17
+Mem : Successfull free -- index 12
+Mem : Successfull free -- index 19
+Mem : Successfull free -- index 20
+Mem : Successfull free -- index 6
+Mem : Successfull free -- index 14
+Mem : Successfull free -- index 16
+Mem : Successfull free -- index 8
+Mem : Successfull free -- index 18
+Mem : Successfull free -- index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+Mem : Successfull free -- index 8
+Mem : Successfull free -- index 6
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 4
+in MAllocWrapper
+Mem : Malloc called -- put in index 4
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+Mem : Successfull free -- index 4
+Mem : Successfull free -- index 6
+Mem : Successfull free -- index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 4
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 12
+in MAllocWrapper
+Mem : Malloc called -- put in index 14
+in MAllocWrapper
+Mem : Malloc called -- put in index 15
+Mem : Successfull free -- index 15
+Mem : Successfull free -- index 4
+Mem : Successfull free -- index 8
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 14
+Mem : Successfull free -- index 12
+Mem : Successfull free -- index 13
+in MAllocWrapper
+Mem : Malloc called -- put in index 4
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 12
+in MAllocWrapper
+Mem : Malloc called -- put in index 13
+Mem : Successfull free -- index 12
+Mem : Successfull free -- index 13
+Mem : Successfull free -- index 8
+Mem : Successfull free -- index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+in MAllocWrapper
+Mem : Malloc called -- put in index 12
+in MAllocWrapper
+Mem : Malloc called -- put in index 13
+in MAllocWrapper
+Mem : Malloc called -- put in index 14
+in MAllocWrapper
+Mem : Malloc called -- put in index 15
+Mem : Successfull free -- index 6
+Mem : Successfull free -- index 8
+Mem : Successfull free -- index 15
+Mem : Successfull free -- index 14
+Mem : Successfull free -- index 13
+Mem : Successfull free -- index 12
+Mem : Successfull free -- index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 12
+Mem : Successfull free -- index 12
+Mem : Successfull free -- index 6
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 8
+Mem : Successfull free -- index 4
+in MAllocWrapper
+Mem : Malloc called -- put in index 4
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+Mem : Successfull free -- index 6
+Mem : Successfull free -- index 4
+Mem : Successfull free -- index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 4
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+Mem : Successfull free -- index 8
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 6
+Mem : Successfull free -- index 4
+Mem : Successfull free -- index 11
+in MAllocWrapper
+Mem : Malloc called -- put in index 4
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+Mem : Successfull free -- index 4
+Mem : Successfull free -- index 6
+Mem : Successfull free -- index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 4
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 11
+in MAllocWrapper
+Mem : Malloc called -- put in index 12
+in MAllocWrapper
+Mem : Malloc called -- put in index 13
+in MAllocWrapper
+Mem : Malloc called -- put in index 14
+Mem : Successfull free -- index 13
+Mem : Successfull free -- index 14
+Mem : Successfull free -- index 8
+Mem : Successfull free -- index 11
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 12
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 6
+Mem : Successfull free -- index 4
+Mem : Successfull free -- index 9
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 4
+Mem : Successfull free -- index 4
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 4
+in MAllocWrapper
+Mem : Malloc called -- put in index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+in MAllocWrapper
+Mem : Malloc called -- put in index 9
+Mem : Successfull free -- index 9
+Mem : Successfull free -- index 4
+Mem : Successfull free -- index 6
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 8
+Mem : Successfull free -- index 0
+in MAllocWrapper
+Mem : Malloc called -- put in index 0
+in MAllocWrapper
+Mem : Malloc called -- put in index 4
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 8
+Mem : Successfull free -- index 4
+Mem : Successfull free -- index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 4
+in MAllocWrapper
+Mem : Malloc called -- put in index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+in MAllocWrapper
+Mem : Malloc called -- put in index 9
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 11
+in MAllocWrapper
+Mem : Malloc called -- put in index 12
+in MAllocWrapper
+Mem : Malloc called -- put in index 13
+in MAllocWrapper
+Mem : Malloc called -- put in index 14
+in MAllocWrapper
+Mem : Malloc called -- put in index 15
+in MAllocWrapper
+Mem : Malloc called -- put in index 16
+in MAllocWrapper
+Mem : Malloc called -- put in index 17
+in MAllocWrapper
+Mem : Malloc called -- put in index 18
+in MAllocWrapper
+Mem : Malloc called -- put in index 19
+Mem : Successfull free -- index 8
+Mem : Successfull free -- index 19
+Mem : Successfull free -- index 18
+Mem : Successfull free -- index 13
+Mem : Successfull free -- index 16
+Mem : Successfull free -- index 5
+Mem : Successfull free -- index 15
+Mem : Successfull free -- index 17
+Mem : Successfull free -- index 12
+Mem : Successfull free -- index 4
+Mem : Successfull free -- index 9
+Mem : Successfull free -- index 14
+Mem : Successfull free -- index 11
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 4
+in MAllocWrapper
+Mem : Malloc called -- put in index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+Mem : Successfull free -- index 6
+Mem : Successfull free -- index 4
+Mem : Successfull free -- index 5
+Mem : Successfull free -- index 0
+in MAllocWrapper
+Mem : Malloc called -- put in index 0
+Mem : Successfull free -- index 0
+Mem : Successfull free -- index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 0
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 4
+in MAllocWrapper
+Mem : Malloc called -- put in index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+in MAllocWrapper
+Mem : Malloc called -- put in index 9
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 11
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 11
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 5
+Mem : Successfull free -- index 9
+Mem : Successfull free -- index 2
+in MAllocWrapper
+Mem : Malloc called -- put in index 2
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 9
+in MAllocWrapper
+Mem : Malloc called -- put in index 11
+in MAllocWrapper
+Mem : Malloc called -- put in index 12
+in MAllocWrapper
+Mem : Malloc called -- put in index 13
+in MAllocWrapper
+Mem : Malloc called -- put in index 14
+in MAllocWrapper
+Mem : Malloc called -- put in index 15
+Mem : Successfull free -- index 15
+Mem : Successfull free -- index 11
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 13
+Mem : Successfull free -- index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 14
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 11
+in MAllocWrapper
+Mem : Malloc called -- put in index 13
+in MAllocWrapper
+Mem : Malloc called -- put in index 14
+in MAllocWrapper
+Mem : Malloc called -- put in index 15
+in MAllocWrapper
+Mem : Malloc called -- put in index 16
+in MAllocWrapper
+Mem : Malloc called -- put in index 17
+in MAllocWrapper
+Mem : Malloc called -- put in index 18
+in MAllocWrapper
+Mem : Malloc called -- put in index 19
+in MAllocWrapper
+Mem : Malloc called -- put in index 20
+in MAllocWrapper
+Mem : Malloc called -- put in index 21
+in MAllocWrapper
+Mem : Malloc called -- put in index 22
+in MAllocWrapper
+Mem : Malloc called -- put in index 23
+in MAllocWrapper
+Mem : Malloc called -- put in index 24
+in MAllocWrapper
+Mem : Malloc called -- put in index 25
+in MAllocWrapper
+Mem : Malloc called -- put in index 26
+in MAllocWrapper
+Mem : Malloc called -- put in index 27
+in MAllocWrapper
+Mem : Malloc called -- put in index 28
+in MAllocWrapper
+Mem : Malloc called -- put in index 29
+Mem : Successfull free -- index 19
+Mem : Successfull free -- index 17
+Mem : Successfull free -- index 25
+Mem : Successfull free -- index 13
+Mem : Successfull free -- index 15
+Mem : Successfull free -- index 21
+Mem : Successfull free -- index 23
+Mem : Successfull free -- index 29
+Mem : Successfull free -- index 27
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 13
+in MAllocWrapper
+Mem : Malloc called -- put in index 15
+in MAllocWrapper
+Mem : Malloc called -- put in index 17
+in MAllocWrapper
+Mem : Malloc called -- put in index 19
+in MAllocWrapper
+Mem : Malloc called -- put in index 21
+in MAllocWrapper
+Mem : Malloc called -- put in index 23
+in MAllocWrapper
+Mem : Malloc called -- put in index 25
+in MAllocWrapper
+Mem : Malloc called -- put in index 27
+in MAllocWrapper
+Mem : Malloc called -- put in index 29
+in MAllocWrapper
+Mem : Malloc called -- put in index 30
+in MAllocWrapper
+Mem : Malloc called -- put in index 31
+in MAllocWrapper
+Mem : Malloc called -- put in index 32
+in MAllocWrapper
+Mem : Malloc called -- put in index 33
+in MAllocWrapper
+Mem : Malloc called -- put in index 34
+in MAllocWrapper
+Mem : Malloc called -- put in index 35
+in MAllocWrapper
+Mem : Malloc called -- put in index 36
+in MAllocWrapper
+Mem : Malloc called -- put in index 37
+Mem : Successfull free -- index 19
+Mem : Successfull free -- index 13
+Mem : Successfull free -- index 31
+Mem : Successfull free -- index 21
+Mem : Successfull free -- index 29
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 36
+Mem : Successfull free -- index 37
+Mem : Successfull free -- index 35
+Mem : Successfull free -- index 32
+Mem : Successfull free -- index 34
+Mem : Successfull free -- index 30
+Mem : Successfull free -- index 27
+Mem : Successfull free -- index 23
+Mem : Successfull free -- index 17
+Mem : Successfull free -- index 15
+Mem : Successfull free -- index 25
+Mem : Successfull free -- index 33
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 28
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 13
+in MAllocWrapper
+Mem : Malloc called -- put in index 15
+in MAllocWrapper
+Mem : Malloc called -- put in index 17
+in MAllocWrapper
+Mem : Malloc called -- put in index 19
+in MAllocWrapper
+Mem : Malloc called -- put in index 21
+in MAllocWrapper
+Mem : Malloc called -- put in index 23
+in MAllocWrapper
+Mem : Malloc called -- put in index 25
+in MAllocWrapper
+Mem : Malloc called -- put in index 27
+in MAllocWrapper
+Mem : Malloc called -- put in index 28
+in MAllocWrapper
+Mem : Malloc called -- put in index 29
+in MAllocWrapper
+Mem : Malloc called -- put in index 30
+in MAllocWrapper
+Mem : Malloc called -- put in index 31
+in MAllocWrapper
+Mem : Malloc called -- put in index 32
+Mem : Successfull free -- index 31
+Mem : Successfull free -- index 19
+Mem : Successfull free -- index 23
+Mem : Successfull free -- index 32
+Mem : Successfull free -- index 13
+Mem : Successfull free -- index 21
+Mem : Successfull free -- index 17
+Mem : Successfull free -- index 30
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 28
+Mem : Successfull free -- index 27
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 25
+Mem : Successfull free -- index 29
+Mem : Successfull free -- index 15
+Mem : Successfull free -- index 26
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 13
+in MAllocWrapper
+Mem : Malloc called -- put in index 15
+in MAllocWrapper
+Mem : Malloc called -- put in index 17
+in MAllocWrapper
+Mem : Malloc called -- put in index 19
+in MAllocWrapper
+Mem : Malloc called -- put in index 21
+in MAllocWrapper
+Mem : Malloc called -- put in index 23
+in MAllocWrapper
+Mem : Malloc called -- put in index 25
+in MAllocWrapper
+Mem : Malloc called -- put in index 26
+in MAllocWrapper
+Mem : Malloc called -- put in index 27
+in MAllocWrapper
+Mem : Malloc called -- put in index 28
+in MAllocWrapper
+Mem : Malloc called -- put in index 29
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 26
+Mem : Successfull free -- index 25
+Mem : Successfull free -- index 27
+Mem : Successfull free -- index 28
+Mem : Successfull free -- index 23
+Mem : Successfull free -- index 29
+Mem : Successfull free -- index 21
+Mem : Successfull free -- index 13
+Mem : Successfull free -- index 19
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 17
+Mem : Successfull free -- index 15
+Mem : Successfull free -- index 24
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 13
+in MAllocWrapper
+Mem : Malloc called -- put in index 15
+in MAllocWrapper
+Mem : Malloc called -- put in index 17
+in MAllocWrapper
+Mem : Malloc called -- put in index 19
+in MAllocWrapper
+Mem : Malloc called -- put in index 21
+in MAllocWrapper
+Mem : Malloc called -- put in index 23
+in MAllocWrapper
+Mem : Malloc called -- put in index 24
+in MAllocWrapper
+Mem : Malloc called -- put in index 25
+in MAllocWrapper
+Mem : Malloc called -- put in index 26
+in MAllocWrapper
+Mem : Malloc called -- put in index 27
+in MAllocWrapper
+Mem : Malloc called -- put in index 28
+in MAllocWrapper
+Mem : Malloc called -- put in index 29
+in MAllocWrapper
+Mem : Malloc called -- put in index 30
+in MAllocWrapper
+Mem : Malloc called -- put in index 31
+in MAllocWrapper
+Mem : Malloc called -- put in index 32
+in MAllocWrapper
+Mem : Malloc called -- put in index 33
+in MAllocWrapper
+Mem : Malloc called -- put in index 34
+in MAllocWrapper
+Mem : Malloc called -- put in index 35
+Mem : Successfull free -- index 26
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 24
+Mem : Successfull free -- index 28
+Mem : Successfull free -- index 25
+Mem : Successfull free -- index 23
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 34
+Mem : Successfull free -- index 17
+Mem : Successfull free -- index 31
+Mem : Successfull free -- index 29
+Mem : Successfull free -- index 27
+Mem : Successfull free -- index 15
+Mem : Successfull free -- index 35
+Mem : Successfull free -- index 33
+Mem : Successfull free -- index 21
+Mem : Successfull free -- index 19
+Mem : Successfull free -- index 30
+Mem : Successfull free -- index 32
+Mem : Successfull free -- index 13
+Mem : Successfull free -- index 22
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 13
+in MAllocWrapper
+Mem : Malloc called -- put in index 15
+in MAllocWrapper
+Mem : Malloc called -- put in index 17
+in MAllocWrapper
+Mem : Malloc called -- put in index 19
+in MAllocWrapper
+Mem : Malloc called -- put in index 21
+in MAllocWrapper
+Mem : Malloc called -- put in index 22
+in MAllocWrapper
+Mem : Malloc called -- put in index 23
+in MAllocWrapper
+Mem : Malloc called -- put in index 24
+in MAllocWrapper
+Mem : Malloc called -- put in index 25
+in MAllocWrapper
+Mem : Malloc called -- put in index 26
+in MAllocWrapper
+Mem : Malloc called -- put in index 27
+in MAllocWrapper
+Mem : Malloc called -- put in index 28
+in MAllocWrapper
+Mem : Malloc called -- put in index 29
+in MAllocWrapper
+Mem : Malloc called -- put in index 30
+in MAllocWrapper
+Mem : Malloc called -- put in index 31
+in MAllocWrapper
+Mem : Malloc called -- put in index 32
+in MAllocWrapper
+Mem : Malloc called -- put in index 33
+in MAllocWrapper
+Mem : Malloc called -- put in index 34
+Mem : Successfull free -- index 27
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 26
+Mem : Successfull free -- index 29
+Mem : Successfull free -- index 25
+Mem : Successfull free -- index 23
+Mem : Successfull free -- index 24
+Mem : Successfull free -- index 17
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 34
+Mem : Successfull free -- index 19
+Mem : Successfull free -- index 32
+Mem : Successfull free -- index 30
+Mem : Successfull free -- index 28
+Mem : Successfull free -- index 15
+Mem : Successfull free -- index 22
+Mem : Successfull free -- index 21
+Mem : Successfull free -- index 31
+Mem : Successfull free -- index 33
+Mem : Successfull free -- index 13
+Mem : Successfull free -- index 20
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 13
+in MAllocWrapper
+Mem : Malloc called -- put in index 15
+in MAllocWrapper
+Mem : Malloc called -- put in index 17
+in MAllocWrapper
+Mem : Malloc called -- put in index 19
+in MAllocWrapper
+Mem : Malloc called -- put in index 20
+in MAllocWrapper
+Mem : Malloc called -- put in index 21
+in MAllocWrapper
+Mem : Malloc called -- put in index 22
+in MAllocWrapper
+Mem : Malloc called -- put in index 23
+in MAllocWrapper
+Mem : Malloc called -- put in index 24
+in MAllocWrapper
+Mem : Malloc called -- put in index 25
+in MAllocWrapper
+Mem : Malloc called -- put in index 26
+in MAllocWrapper
+Mem : Malloc called -- put in index 27
+in MAllocWrapper
+Mem : Malloc called -- put in index 28
+in MAllocWrapper
+Mem : Malloc called -- put in index 29
+in MAllocWrapper
+Mem : Malloc called -- put in index 30
+Mem : Successfull free -- index 23
+Mem : Successfull free -- index 26
+Mem : Successfull free -- index 15
+Mem : Successfull free -- index 27
+Mem : Successfull free -- index 24
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 22
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 20
+Mem : Successfull free -- index 19
+Mem : Successfull free -- index 17
+Mem : Successfull free -- index 21
+Mem : Successfull free -- index 30
+Mem : Successfull free -- index 25
+Mem : Successfull free -- index 28
+Mem : Successfull free -- index 29
+Mem : Successfull free -- index 13
+Mem : Successfull free -- index 18
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 13
+in MAllocWrapper
+Mem : Malloc called -- put in index 15
+in MAllocWrapper
+Mem : Malloc called -- put in index 17
+in MAllocWrapper
+Mem : Malloc called -- put in index 18
+in MAllocWrapper
+Mem : Malloc called -- put in index 19
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 18
+Mem : Successfull free -- index 13
+Mem : Successfull free -- index 19
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 17
+Mem : Successfull free -- index 15
+Mem : Successfull free -- index 16
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 13
+in MAllocWrapper
+Mem : Malloc called -- put in index 15
+in MAllocWrapper
+Mem : Malloc called -- put in index 16
+in MAllocWrapper
+Mem : Malloc called -- put in index 17
+in MAllocWrapper
+Mem : Malloc called -- put in index 18
+in MAllocWrapper
+Mem : Malloc called -- put in index 19
+in MAllocWrapper
+Mem : Malloc called -- put in index 20
+in MAllocWrapper
+Mem : Malloc called -- put in index 21
+in MAllocWrapper
+Mem : Malloc called -- put in index 22
+Mem : Successfull free -- index 13
+Mem : Successfull free -- index 21
+Mem : Successfull free -- index 18
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 15
+Mem : Successfull free -- index 17
+Mem : Successfull free -- index 22
+Mem : Successfull free -- index 16
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 20
+Mem : Successfull free -- index 19
+Mem : Successfull free -- index 14
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 13
+in MAllocWrapper
+Mem : Malloc called -- put in index 14
+in MAllocWrapper
+Mem : Malloc called -- put in index 15
+in MAllocWrapper
+Mem : Malloc called -- put in index 16
+in MAllocWrapper
+Mem : Malloc called -- put in index 17
+in MAllocWrapper
+Mem : Malloc called -- put in index 18
+in MAllocWrapper
+Mem : Malloc called -- put in index 19
+in MAllocWrapper
+Mem : Malloc called -- put in index 20
+in MAllocWrapper
+Mem : Malloc called -- put in index 21
+in MAllocWrapper
+Mem : Malloc called -- put in index 22
+in MAllocWrapper
+Mem : Malloc called -- put in index 23
+in MAllocWrapper
+Mem : Malloc called -- put in index 24
+in MAllocWrapper
+Mem : Malloc called -- put in index 25
+in MAllocWrapper
+Mem : Malloc called -- put in index 26
+in MAllocWrapper
+Mem : Malloc called -- put in index 27
+Mem : Successfull free -- index 20
+Mem : Successfull free -- index 23
+Mem : Successfull free -- index 26
+Mem : Successfull free -- index 24
+Mem : Successfull free -- index 22
+Mem : Successfull free -- index 14
+Mem : Successfull free -- index 25
+Mem : Successfull free -- index 21
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 27
+Mem : Successfull free -- index 19
+Mem : Successfull free -- index 15
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 17
+Mem : Successfull free -- index 16
+Mem : Successfull free -- index 18
+Mem : Successfull free -- index 13
+Mem : Successfull free -- index 11
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 11
+in MAllocWrapper
+Mem : Malloc called -- put in index 13
+in MAllocWrapper
+Mem : Malloc called -- put in index 14
+in MAllocWrapper
+Mem : Malloc called -- put in index 15
+in MAllocWrapper
+Mem : Malloc called -- put in index 16
+in MAllocWrapper
+Mem : Malloc called -- put in index 17
+in MAllocWrapper
+Mem : Malloc called -- put in index 18
+in MAllocWrapper
+Mem : Malloc called -- put in index 19
+in MAllocWrapper
+Mem : Malloc called -- put in index 20
+in MAllocWrapper
+Mem : Malloc called -- put in index 21
+in MAllocWrapper
+Mem : Malloc called -- put in index 22
+in MAllocWrapper
+Mem : Malloc called -- put in index 23
+in MAllocWrapper
+Mem : Malloc called -- put in index 24
+in MAllocWrapper
+Mem : Malloc called -- put in index 25
+in MAllocWrapper
+Mem : Malloc called -- put in index 26
+in MAllocWrapper
+Mem : Malloc called -- put in index 27
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 14
+Mem : Successfull free -- index 11
+Mem : Successfull free -- index 24
+Mem : Successfull free -- index 20
+Mem : Successfull free -- index 13
+Mem : Successfull free -- index 16
+Mem : Successfull free -- index 15
+Mem : Successfull free -- index 22
+Mem : Successfull free -- index 19
+Mem : Successfull free -- index 21
+Mem : Successfull free -- index 18
+Mem : Successfull free -- index 26
+Mem : Successfull free -- index 25
+Mem : Successfull free -- index 23
+Mem : Successfull free -- index 17
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 27
+Mem : Successfull free -- index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 11
+in MAllocWrapper
+Mem : Malloc called -- put in index 13
+in MAllocWrapper
+Mem : Malloc called -- put in index 14
+Mem : Successfull free -- index 11
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 14
+Mem : Successfull free -- index 13
+Mem : Successfull free -- index 12
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 11
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 11
+Mem : Successfull free -- index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 11
+in MAllocWrapper
+Mem : Malloc called -- put in index 12
+in MAllocWrapper
+Mem : Malloc called -- put in index 13
+in MAllocWrapper
+Mem : Malloc called -- put in index 14
+in MAllocWrapper
+Mem : Malloc called -- put in index 15
+in MAllocWrapper
+Mem : Malloc called -- put in index 16
+in MAllocWrapper
+Mem : Malloc called -- put in index 17
+in MAllocWrapper
+Mem : Malloc called -- put in index 18
+in MAllocWrapper
+Mem : Malloc called -- put in index 19
+in MAllocWrapper
+Mem : Malloc called -- put in index 20
+in MAllocWrapper
+Mem : Malloc called -- put in index 21
+in MAllocWrapper
+Mem : Malloc called -- put in index 22
+in MAllocWrapper
+Mem : Malloc called -- put in index 23
+in MAllocWrapper
+Mem : Malloc called -- put in index 24
+in MAllocWrapper
+Mem : Malloc called -- put in index 25
+in MAllocWrapper
+Mem : Malloc called -- put in index 26
+Mem : Successfull free -- index 25
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 26
+Mem : Successfull free -- index 22
+Mem : Successfull free -- index 16
+Mem : Successfull free -- index 14
+Mem : Successfull free -- index 24
+Mem : Successfull free -- index 12
+Mem : Successfull free -- index 20
+Mem : Successfull free -- index 18
+Mem : Successfull free -- index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 12
+in MAllocWrapper
+Mem : Malloc called -- put in index 14
+in MAllocWrapper
+Mem : Malloc called -- put in index 16
+in MAllocWrapper
+Mem : Malloc called -- put in index 18
+in MAllocWrapper
+Mem : Malloc called -- put in index 20
+in MAllocWrapper
+Mem : Malloc called -- put in index 22
+in MAllocWrapper
+Mem : Malloc called -- put in index 24
+in MAllocWrapper
+Mem : Malloc called -- put in index 25
+in MAllocWrapper
+Mem : Malloc called -- put in index 26
+Mem : Successfull free -- index 24
+Mem : Successfull free -- index 22
+Mem : Successfull free -- index 26
+Mem : Successfull free -- index 18
+Mem : Successfull free -- index 20
+Mem : Successfull free -- index 25
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 14
+Mem : Successfull free -- index 12
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 16
+Mem : Successfull free -- index 23
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 12
+in MAllocWrapper
+Mem : Malloc called -- put in index 14
+in MAllocWrapper
+Mem : Malloc called -- put in index 16
+in MAllocWrapper
+Mem : Malloc called -- put in index 18
+in MAllocWrapper
+Mem : Malloc called -- put in index 20
+in MAllocWrapper
+Mem : Malloc called -- put in index 22
+in MAllocWrapper
+Mem : Malloc called -- put in index 23
+in MAllocWrapper
+Mem : Malloc called -- put in index 24
+Mem : Successfull free -- index 18
+Mem : Successfull free -- index 16
+Mem : Successfull free -- index 22
+Mem : Successfull free -- index 12
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 20
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 24
+Mem : Successfull free -- index 14
+Mem : Successfull free -- index 23
+Mem : Successfull free -- index 21
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 12
+in MAllocWrapper
+Mem : Malloc called -- put in index 14
+Mem : Successfull free -- index 14
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 12
+Mem : Successfull free -- index 19
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 17
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 12
+in MAllocWrapper
+Mem : Malloc called -- put in index 14
+in MAllocWrapper
+Mem : Malloc called -- put in index 16
+Mem : Successfull free -- index 14
+Mem : Successfull free -- index 12
+Mem : Successfull free -- index 16
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 15
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 12
+in MAllocWrapper
+Mem : Malloc called -- put in index 14
+in MAllocWrapper
+Mem : Malloc called -- put in index 15
+in MAllocWrapper
+Mem : Malloc called -- put in index 16
+in MAllocWrapper
+Mem : Malloc called -- put in index 17
+in MAllocWrapper
+Mem : Malloc called -- put in index 18
+in MAllocWrapper
+Mem : Malloc called -- put in index 19
+in MAllocWrapper
+Mem : Malloc called -- put in index 20
+in MAllocWrapper
+Mem : Malloc called -- put in index 21
+in MAllocWrapper
+Mem : Malloc called -- put in index 22
+in MAllocWrapper
+Mem : Malloc called -- put in index 23
+in MAllocWrapper
+Mem : Malloc called -- put in index 24
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 21
+Mem : Successfull free -- index 14
+Mem : Successfull free -- index 22
+Mem : Successfull free -- index 19
+Mem : Successfull free -- index 17
+Mem : Successfull free -- index 16
+Mem : Successfull free -- index 15
+Mem : Successfull free -- index 12
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 24
+Mem : Successfull free -- index 23
+Mem : Successfull free -- index 18
+Mem : Successfull free -- index 20
+Mem : Successfull free -- index 13
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 11
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 11
+in MAllocWrapper
+Mem : Malloc called -- put in index 12
+in MAllocWrapper
+Mem : Malloc called -- put in index 13
+in MAllocWrapper
+Mem : Malloc called -- put in index 14
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 13
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 11
+Mem : Successfull free -- index 12
+Mem : Successfull free -- index 14
+Mem : Successfull free -- index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 11
+in MAllocWrapper
+Mem : Malloc called -- put in index 12
+in MAllocWrapper
+Mem : Malloc called -- put in index 13
+in MAllocWrapper
+Mem : Malloc called -- put in index 14
+in MAllocWrapper
+Mem : Malloc called -- put in index 15
+in MAllocWrapper
+Mem : Malloc called -- put in index 16
+in MAllocWrapper
+Mem : Malloc called -- put in index 17
+in MAllocWrapper
+Mem : Malloc called -- put in index 18
+in MAllocWrapper
+Mem : Malloc called -- put in index 19
+in MAllocWrapper
+Mem : Malloc called -- put in index 20
+in MAllocWrapper
+Mem : Malloc called -- put in index 21
+in MAllocWrapper
+Mem : Malloc called -- put in index 22
+in MAllocWrapper
+Mem : Malloc called -- put in index 23
+in MAllocWrapper
+Mem : Malloc called -- put in index 24
+in MAllocWrapper
+Mem : Malloc called -- put in index 25
+in MAllocWrapper
+Mem : Malloc called -- put in index 26
+in MAllocWrapper
+Mem : Malloc called -- put in index 27
+in MAllocWrapper
+Mem : Malloc called -- put in index 28
+in MAllocWrapper
+Mem : Malloc called -- put in index 29
+in MAllocWrapper
+Mem : Malloc called -- put in index 30
+in MAllocWrapper
+Mem : Malloc called -- put in index 31
+in MAllocWrapper
+Mem : Malloc called -- put in index 32
+in MAllocWrapper
+Mem : Malloc called -- put in index 33
+in MAllocWrapper
+Mem : Malloc called -- put in index 34
+in MAllocWrapper
+Mem : Malloc called -- put in index 35
+in MAllocWrapper
+Mem : Malloc called -- put in index 36
+in MAllocWrapper
+Mem : Malloc called -- put in index 37
+in MAllocWrapper
+Mem : Malloc called -- put in index 38
+in MAllocWrapper
+Mem : Malloc called -- put in index 39
+Mem : Successfull free -- index 34
+Mem : Successfull free -- index 39
+Mem : Successfull free -- index 36
+Mem : Successfull free -- index 29
+Mem : Successfull free -- index 35
+Mem : Successfull free -- index 22
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 24
+Mem : Successfull free -- index 11
+Mem : Successfull free -- index 33
+Mem : Successfull free -- index 26
+Mem : Successfull free -- index 17
+Mem : Successfull free -- index 16
+Mem : Successfull free -- index 15
+Mem : Successfull free -- index 14
+Mem : Successfull free -- index 28
+Mem : Successfull free -- index 37
+Mem : Successfull free -- index 21
+Mem : Successfull free -- index 20
+Mem : Successfull free -- index 19
+Mem : Successfull free -- index 18
+Mem : Successfull free -- index 27
+Mem : Successfull free -- index 32
+Mem : Successfull free -- index 31
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 12
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 23
+Mem : Successfull free -- index 13
+Mem : Successfull free -- index 9
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 38
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 9
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 9
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 30
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 9
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 11
+in MAllocWrapper
+Mem : Malloc called -- put in index 12
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 12
+Mem : Successfull free -- index 11
+Mem : Successfull free -- index 25
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 9
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 9
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 9
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 9
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 11
+in MAllocWrapper
+Mem : Malloc called -- put in index 12
+in MAllocWrapper
+Mem : Malloc called -- put in index 13
+in MAllocWrapper
+Mem : Malloc called -- put in index 14
+in MAllocWrapper
+Mem : Malloc called -- put in index 15
+in MAllocWrapper
+Mem : Malloc called -- put in index 16
+in MAllocWrapper
+Mem : Malloc called -- put in index 17
+in MAllocWrapper
+Mem : Malloc called -- put in index 18
+in MAllocWrapper
+Mem : Malloc called -- put in index 19
+in MAllocWrapper
+Mem : Malloc called -- put in index 20
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 14
+Mem : Successfull free -- index 16
+Mem : Successfull free -- index 12
+Mem : Successfull free -- index 20
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 18
+Mem : Successfull free -- index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 12
+in MAllocWrapper
+Mem : Malloc called -- put in index 14
+in MAllocWrapper
+Mem : Malloc called -- put in index 16
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 16
+Mem : Successfull free -- index 14
+Mem : Successfull free -- index 5
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 12
+Mem : Successfull free -- index 19
+in MAllocWrapper
+Mem : Malloc called -- put in index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 12
+in MAllocWrapper
+Mem : Malloc called -- put in index 14
+in MAllocWrapper
+Mem : Malloc called -- put in index 16
+in MAllocWrapper
+Mem : Malloc called -- put in index 18
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 18
+Mem : Successfull free -- index 16
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 14
+Mem : Successfull free -- index 12
+Mem : Successfull free -- index 5
+Mem : Successfull free -- index 17
+in MAllocWrapper
+Mem : Malloc called -- put in index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 12
+in MAllocWrapper
+Mem : Malloc called -- put in index 14
+in MAllocWrapper
+Mem : Malloc called -- put in index 16
+in MAllocWrapper
+Mem : Malloc called -- put in index 17
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 16
+Mem : Successfull free -- index 14
+Mem : Successfull free -- index 5
+Mem : Successfull free -- index 17
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 12
+Mem : Successfull free -- index 15
+in MAllocWrapper
+Mem : Malloc called -- put in index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 12
+in MAllocWrapper
+Mem : Malloc called -- put in index 14
+in MAllocWrapper
+Mem : Malloc called -- put in index 15
+in MAllocWrapper
+Mem : Malloc called -- put in index 16
+in MAllocWrapper
+Mem : Malloc called -- put in index 17
+Mem : Successfull free -- index 12
+Mem : Successfull free -- index 5
+Mem : Successfull free -- index 17
+Mem : Successfull free -- index 14
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 16
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 15
+Mem : Successfull free -- index 13
+in MAllocWrapper
+Mem : Malloc called -- put in index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 12
+in MAllocWrapper
+Mem : Malloc called -- put in index 13
+in MAllocWrapper
+Mem : Malloc called -- put in index 14
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 5
+Mem : Successfull free -- index 14
+Mem : Successfull free -- index 13
+Mem : Successfull free -- index 12
+Mem : Successfull free -- index 11
+in MAllocWrapper
+Mem : Malloc called -- put in index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 11
+in MAllocWrapper
+Mem : Malloc called -- put in index 12
+in MAllocWrapper
+Mem : Malloc called -- put in index 13
+in MAllocWrapper
+Mem : Malloc called -- put in index 14
+in MAllocWrapper
+Mem : Malloc called -- put in index 15
+in MAllocWrapper
+Mem : Malloc called -- put in index 16
+Mem : Successfull free -- index 12
+Mem : Successfull free -- index 13
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 16
+Mem : Successfull free -- index 15
+Mem : Successfull free -- index 11
+Mem : Successfull free -- index 14
+Mem : Successfull free -- index 9
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 9
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 11
+in MAllocWrapper
+Mem : Malloc called -- put in index 12
+in MAllocWrapper
+Mem : Malloc called -- put in index 13
+in MAllocWrapper
+Mem : Malloc called -- put in index 14
+in MAllocWrapper
+Mem : Malloc called -- put in index 15
+in MAllocWrapper
+Mem : Malloc called -- put in index 16
+in MAllocWrapper
+Mem : Malloc called -- put in index 17
+in MAllocWrapper
+Mem : Malloc called -- put in index 18
+in MAllocWrapper
+Mem : Malloc called -- put in index 19
+in MAllocWrapper
+Mem : Malloc called -- put in index 20
+in MAllocWrapper
+Mem : Malloc called -- put in index 21
+in MAllocWrapper
+Mem : Malloc called -- put in index 22
+in MAllocWrapper
+Mem : Malloc called -- put in index 23
+in MAllocWrapper
+Mem : Malloc called -- put in index 24
+in MAllocWrapper
+Mem : Malloc called -- put in index 25
+in MAllocWrapper
+Mem : Malloc called -- put in index 26
+in MAllocWrapper
+Mem : Malloc called -- put in index 27
+in MAllocWrapper
+Mem : Malloc called -- put in index 28
+in MAllocWrapper
+Mem : Malloc called -- put in index 29
+in MAllocWrapper
+Mem : Malloc called -- put in index 30
+in MAllocWrapper
+Mem : Malloc called -- put in index 31
+in MAllocWrapper
+Mem : Malloc called -- put in index 32
+in MAllocWrapper
+Mem : Malloc called -- put in index 33
+in MAllocWrapper
+Mem : Malloc called -- put in index 34
+in MAllocWrapper
+Mem : Malloc called -- put in index 35
+in MAllocWrapper
+Mem : Malloc called -- put in index 36
+in MAllocWrapper
+Mem : Malloc called -- put in index 37
+in MAllocWrapper
+Mem : Malloc called -- put in index 38
+in MAllocWrapper
+Mem : Malloc called -- put in index 39
+in MAllocWrapper
+Mem : Malloc called -- put in index 40
+in MAllocWrapper
+Mem : Malloc called -- put in index 41
+in MAllocWrapper
+Mem : Malloc called -- put in index 42
+in MAllocWrapper
+Mem : Malloc called -- put in index 43
+in MAllocWrapper
+Mem : Malloc called -- put in index 44
+in MAllocWrapper
+Mem : Malloc called -- put in index 45
+in MAllocWrapper
+Mem : Malloc called -- put in index 46
+in MAllocWrapper
+Mem : Malloc called -- put in index 47
+Mem : Successfull free -- index 27
+Mem : Successfull free -- index 25
+Mem : Successfull free -- index 23
+Mem : Successfull free -- index 20
+Mem : Successfull free -- index 32
+Mem : Successfull free -- index 31
+Mem : Successfull free -- index 30
+Mem : Successfull free -- index 29
+Mem : Successfull free -- index 26
+Mem : Successfull free -- index 24
+Mem : Successfull free -- index 43
+Mem : Successfull free -- index 41
+Mem : Successfull free -- index 39
+Mem : Successfull free -- index 37
+Mem : Successfull free -- index 35
+Mem : Successfull free -- index 22
+Mem : Successfull free -- index 17
+Mem : Successfull free -- index 16
+Mem : Successfull free -- index 15
+Mem : Successfull free -- index 14
+Mem : Successfull free -- index 13
+Mem : Successfull free -- index 12
+Mem : Successfull free -- index 11
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 9
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 21
+Mem : Successfull free -- index 47
+Mem : Successfull free -- index 46
+Mem : Successfull free -- index 45
+Mem : Successfull free -- index 44
+Mem : Successfull free -- index 42
+Mem : Successfull free -- index 40
+Mem : Successfull free -- index 38
+Mem : Successfull free -- index 36
+Mem : Successfull free -- index 34
+Mem : Successfull free -- index 33
+Mem : Successfull free -- index 19
+Mem : Successfull free -- index 18
+Mem : Successfull free -- index 28
+Mem : Successfull free -- index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 9
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 11
+Mem : Successfull free -- index 9
+Mem : Successfull free -- index 5
+Mem : Successfull free -- index 11
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 5
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 2
+Mem : Successfull free -- index 8
+in MAllocWrapper
+Mem : Malloc called -- put in index 2
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+Mem : Successfull free -- index 6
+Mem : Successfull free -- index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+in MAllocWrapper
+Mem : Malloc called -- put in index 9
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+Mem : Successfull free -- index 8
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 6
+Mem : Successfull free -- index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+Mem : Successfull free -- index 6
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 8
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 9
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+in MAllocWrapper
+Mem : Malloc called -- put in index 9
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 11
+in MAllocWrapper
+Mem : Malloc called -- put in index 12
+in MAllocWrapper
+Mem : Malloc called -- put in index 13
+in MAllocWrapper
+Mem : Malloc called -- put in index 14
+in MAllocWrapper
+Mem : Malloc called -- put in index 15
+in MAllocWrapper
+Mem : Malloc called -- put in index 16
+in MAllocWrapper
+Mem : Malloc called -- put in index 17
+in MAllocWrapper
+Mem : Malloc called -- put in index 18
+in MAllocWrapper
+Mem : Malloc called -- put in index 19
+in MAllocWrapper
+Mem : Malloc called -- put in index 20
+in MAllocWrapper
+Mem : Malloc called -- put in index 21
+in MAllocWrapper
+Mem : Malloc called -- put in index 22
+Mem : Successfull free -- index 14
+Mem : Successfull free -- index 9
+Mem : Successfull free -- index 21
+Mem : Successfull free -- index 22
+Mem : Successfull free -- index 11
+Mem : Successfull free -- index 6
+Mem : Successfull free -- index 13
+Mem : Successfull free -- index 20
+Mem : Successfull free -- index 19
+Mem : Successfull free -- index 18
+Mem : Successfull free -- index 16
+Mem : Successfull free -- index 17
+Mem : Successfull free -- index 15
+Mem : Successfull free -- index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 9
+in MAllocWrapper
+Mem : Malloc called -- put in index 11
+in MAllocWrapper
+Mem : Malloc called -- put in index 13
+in MAllocWrapper
+Mem : Malloc called -- put in index 14
+in MAllocWrapper
+Mem : Malloc called -- put in index 15
+in MAllocWrapper
+Mem : Malloc called -- put in index 16
+Mem : Successfull free -- index 15
+Mem : Successfull free -- index 14
+Mem : Successfull free -- index 13
+Mem : Successfull free -- index 11
+Mem : Successfull free -- index 9
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 6
+Mem : Successfull free -- index 16
+Mem : Successfull free -- index 12
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 9
+in MAllocWrapper
+Mem : Malloc called -- put in index 11
+in MAllocWrapper
+Mem : Malloc called -- put in index 12
+in MAllocWrapper
+Mem : Malloc called -- put in index 13
+in MAllocWrapper
+Mem : Malloc called -- put in index 14
+in MAllocWrapper
+Mem : Malloc called -- put in index 15
+Mem : Successfull free -- index 14
+Mem : Successfull free -- index 13
+Mem : Successfull free -- index 12
+Mem : Successfull free -- index 11
+Mem : Successfull free -- index 9
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 6
+Mem : Successfull free -- index 15
+Mem : Successfull free -- index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 9
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 11
+in MAllocWrapper
+Mem : Malloc called -- put in index 12
+in MAllocWrapper
+Mem : Malloc called -- put in index 13
+in MAllocWrapper
+Mem : Malloc called -- put in index 14
+in MAllocWrapper
+Mem : Malloc called -- put in index 15
+in MAllocWrapper
+Mem : Malloc called -- put in index 16
+Mem : Successfull free -- index 12
+Mem : Successfull free -- index 14
+Mem : Successfull free -- index 11
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 6
+Mem : Successfull free -- index 13
+Mem : Successfull free -- index 16
+Mem : Successfull free -- index 15
+Mem : Successfull free -- index 9
+Mem : Successfull free -- index 8
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+in MAllocWrapper
+Mem : Malloc called -- put in index 9
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 11
+in MAllocWrapper
+Mem : Malloc called -- put in index 12
+in MAllocWrapper
+Mem : Malloc called -- put in index 13
+Mem : Successfull free -- index 12
+Mem : Successfull free -- index 11
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 9
+Mem : Successfull free -- index 8
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 6
+Mem : Successfull free -- index 13
+Mem : Successfull free -- index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+Mem : Successfull free -- index 6
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 8
+Mem : Successfull free -- index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 5
+Mem : Successfull free -- index 5
+Mem : Successfull free -- index 2
+in MAllocWrapper
+Mem : Malloc called -- put in index 2
+in MAllocWrapper
+Mem : Malloc called -- put in index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+in MAllocWrapper
+Mem : Malloc called -- put in index 9
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 11
+Mem : Successfull free -- index 2
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 6
+Mem : Successfull free -- index 11
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 8
+Mem : Successfull free -- index 9
+Mem : Successfull free -- index 5
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 4
+in MAllocWrapper
+Mem : Malloc called -- put in index 2
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 4
+in MAllocWrapper
+Mem : Malloc called -- put in index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+in MAllocWrapper
+Mem : Malloc called -- put in index 9
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 11
+in MAllocWrapper
+Mem : Malloc called -- put in index 12
+in MAllocWrapper
+Mem : Malloc called -- put in index 13
+in MAllocWrapper
+Mem : Malloc called -- put in index 14
+in MAllocWrapper
+Mem : Malloc called -- put in index 15
+in MAllocWrapper
+Mem : Malloc called -- put in index 16
+in MAllocWrapper
+Mem : Malloc called -- put in index 17
+Mem : Successfull free -- index 5
+Mem : Successfull free -- index 11
+Mem : Successfull free -- index 15
+Mem : Successfull free -- index 17
+Mem : Successfull free -- index 13
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 9
+Mem : Successfull free -- index 0
+in MAllocWrapper
+Mem : Malloc called -- put in index 0
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 9
+in MAllocWrapper
+Mem : Malloc called -- put in index 11
+in MAllocWrapper
+Mem : Malloc called -- put in index 13
+in MAllocWrapper
+Mem : Malloc called -- put in index 15
+in MAllocWrapper
+Mem : Malloc called -- put in index 17
+in MAllocWrapper
+Mem : Malloc called -- put in index 18
+in MAllocWrapper
+Mem : Malloc called -- put in index 19
+in MAllocWrapper
+Mem : Malloc called -- put in index 20
+in MAllocWrapper
+Mem : Malloc called -- put in index 21
+Mem : Successfull free -- index 17
+Mem : Successfull free -- index 5
+Mem : Successfull free -- index 9
+Mem : Successfull free -- index 21
+Mem : Successfull free -- index 0
+Mem : Successfull free -- index 19
+Mem : Successfull free -- index 20
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 13
+Mem : Successfull free -- index 15
+Mem : Successfull free -- index 11
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 18
+Mem : Successfull free -- index 16
+in MAllocWrapper
+Mem : Malloc called -- put in index 0
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 9
+in MAllocWrapper
+Mem : Malloc called -- put in index 11
+in MAllocWrapper
+Mem : Malloc called -- put in index 13
+in MAllocWrapper
+Mem : Malloc called -- put in index 15
+in MAllocWrapper
+Mem : Malloc called -- put in index 16
+in MAllocWrapper
+Mem : Malloc called -- put in index 17
+in MAllocWrapper
+Mem : Malloc called -- put in index 18
+in MAllocWrapper
+Mem : Malloc called -- put in index 19
+in MAllocWrapper
+Mem : Malloc called -- put in index 20
+in MAllocWrapper
+Mem : Malloc called -- put in index 21
+in MAllocWrapper
+Mem : Malloc called -- put in index 22
+in MAllocWrapper
+Mem : Malloc called -- put in index 23
+Mem : Successfull free -- index 19
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 15
+Mem : Successfull free -- index 17
+Mem : Successfull free -- index 21
+Mem : Successfull free -- index 11
+Mem : Successfull free -- index 23
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 14
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 11
+in MAllocWrapper
+Mem : Malloc called -- put in index 14
+in MAllocWrapper
+Mem : Malloc called -- put in index 15
+in MAllocWrapper
+Mem : Malloc called -- put in index 17
+in MAllocWrapper
+Mem : Malloc called -- put in index 19
+Mem : Successfull free -- index 19
+Mem : Successfull free -- index 17
+Mem : Successfull free -- index 14
+Mem : Successfull free -- index 11
+Mem : Successfull free -- index 15
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 22
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 11
+in MAllocWrapper
+Mem : Malloc called -- put in index 14
+in MAllocWrapper
+Mem : Malloc called -- put in index 15
+in MAllocWrapper
+Mem : Malloc called -- put in index 17
+in MAllocWrapper
+Mem : Malloc called -- put in index 19
+in MAllocWrapper
+Mem : Malloc called -- put in index 21
+in MAllocWrapper
+Mem : Malloc called -- put in index 22
+Mem : Successfull free -- index 15
+Mem : Successfull free -- index 14
+Mem : Successfull free -- index 11
+Mem : Successfull free -- index 19
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 22
+Mem : Successfull free -- index 17
+Mem : Successfull free -- index 21
+Mem : Successfull free -- index 20
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 11
+in MAllocWrapper
+Mem : Malloc called -- put in index 14
+in MAllocWrapper
+Mem : Malloc called -- put in index 15
+in MAllocWrapper
+Mem : Malloc called -- put in index 17
+in MAllocWrapper
+Mem : Malloc called -- put in index 19
+in MAllocWrapper
+Mem : Malloc called -- put in index 20
+in MAllocWrapper
+Mem : Malloc called -- put in index 21
+in MAllocWrapper
+Mem : Malloc called -- put in index 22
+in MAllocWrapper
+Mem : Malloc called -- put in index 23
+in MAllocWrapper
+Mem : Malloc called -- put in index 24
+in MAllocWrapper
+Mem : Malloc called -- put in index 25
+Mem : Successfull free -- index 24
+Mem : Successfull free -- index 25
+Mem : Successfull free -- index 23
+Mem : Successfull free -- index 21
+Mem : Successfull free -- index 14
+Mem : Successfull free -- index 15
+Mem : Successfull free -- index 19
+Mem : Successfull free -- index 11
+Mem : Successfull free -- index 22
+Mem : Successfull free -- index 17
+Mem : Successfull free -- index 20
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 18
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 11
+in MAllocWrapper
+Mem : Malloc called -- put in index 14
+in MAllocWrapper
+Mem : Malloc called -- put in index 15
+in MAllocWrapper
+Mem : Malloc called -- put in index 17
+in MAllocWrapper
+Mem : Malloc called -- put in index 18
+in MAllocWrapper
+Mem : Malloc called -- put in index 19
+in MAllocWrapper
+Mem : Malloc called -- put in index 20
+in MAllocWrapper
+Mem : Malloc called -- put in index 21
+in MAllocWrapper
+Mem : Malloc called -- put in index 22
+in MAllocWrapper
+Mem : Malloc called -- put in index 23
+in MAllocWrapper
+Mem : Malloc called -- put in index 24
+in MAllocWrapper
+Mem : Malloc called -- put in index 25
+Mem : Successfull free -- index 20
+Mem : Successfull free -- index 11
+Mem : Successfull free -- index 22
+Mem : Successfull free -- index 17
+Mem : Successfull free -- index 15
+Mem : Successfull free -- index 19
+Mem : Successfull free -- index 24
+Mem : Successfull free -- index 21
+Mem : Successfull free -- index 14
+Mem : Successfull free -- index 18
+Mem : Successfull free -- index 23
+Mem : Successfull free -- index 25
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 16
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 11
+in MAllocWrapper
+Mem : Malloc called -- put in index 14
+Mem : Successfull free -- index 11
+Mem : Successfull free -- index 14
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 11
+in MAllocWrapper
+Mem : Malloc called -- put in index 14
+in MAllocWrapper
+Mem : Malloc called -- put in index 15
+in MAllocWrapper
+Mem : Malloc called -- put in index 16
+in MAllocWrapper
+Mem : Malloc called -- put in index 17
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 17
+Mem : Successfull free -- index 15
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 16
+Mem : Successfull free -- index 14
+Mem : Successfull free -- index 11
+Mem : Successfull free -- index 13
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 11
+in MAllocWrapper
+Mem : Malloc called -- put in index 13
+in MAllocWrapper
+Mem : Malloc called -- put in index 14
+in MAllocWrapper
+Mem : Malloc called -- put in index 15
+in MAllocWrapper
+Mem : Malloc called -- put in index 16
+in MAllocWrapper
+Mem : Malloc called -- put in index 17
+in MAllocWrapper
+Mem : Malloc called -- put in index 18
+in MAllocWrapper
+Mem : Malloc called -- put in index 19
+in MAllocWrapper
+Mem : Malloc called -- put in index 20
+in MAllocWrapper
+Mem : Malloc called -- put in index 21
+in MAllocWrapper
+Mem : Malloc called -- put in index 22
+Mem : Successfull free -- index 22
+Mem : Successfull free -- index 19
+Mem : Successfull free -- index 15
+Mem : Successfull free -- index 20
+Mem : Successfull free -- index 17
+Mem : Successfull free -- index 11
+Mem : Successfull free -- index 14
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 18
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 21
+Mem : Successfull free -- index 13
+Mem : Successfull free -- index 16
+Mem : Successfull free -- index 9
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 9
+in MAllocWrapper
+Mem : Malloc called -- put in index 11
+Mem : Successfull free -- index 9
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 11
+Mem : Successfull free -- index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 9
+in MAllocWrapper
+Mem : Malloc called -- put in index 11
+in MAllocWrapper
+Mem : Malloc called -- put in index 13
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 13
+Mem : Successfull free -- index 11
+Mem : Successfull free -- index 9
+Mem : Successfull free -- index 5
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 0
+in MAllocWrapper
+Mem : Malloc called -- put in index 0
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 5
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 12
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 9
+in MAllocWrapper
+Mem : Malloc called -- put in index 11
+in MAllocWrapper
+Mem : Malloc called -- put in index 12
+Mem : Successfull free -- index 5
+Mem : Successfull free -- index 11
+Mem : Successfull free -- index 12
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 9
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 0
+in MAllocWrapper
+Mem : Malloc called -- put in index 0
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 9
+in MAllocWrapper
+Mem : Malloc called -- put in index 11
+in MAllocWrapper
+Mem : Malloc called -- put in index 12
+in MAllocWrapper
+Mem : Malloc called -- put in index 13
+in MAllocWrapper
+Mem : Malloc called -- put in index 14
+in MAllocWrapper
+Mem : Malloc called -- put in index 15
+in MAllocWrapper
+Mem : Malloc called -- put in index 16
+Mem : Successfull free -- index 16
+Mem : Successfull free -- index 12
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 5
+Mem : Successfull free -- index 11
+Mem : Successfull free -- index 14
+Mem : Successfull free -- index 15
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 0
+Mem : Successfull free -- index 9
+Mem : Successfull free -- index 13
+Mem : Successfull free -- index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 0
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 9
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 11
+in MAllocWrapper
+Mem : Malloc called -- put in index 12
+in MAllocWrapper
+Mem : Malloc called -- put in index 13
+in MAllocWrapper
+Mem : Malloc called -- put in index 14
+in MAllocWrapper
+Mem : Malloc called -- put in index 15
+in MAllocWrapper
+Mem : Malloc called -- put in index 16
+in MAllocWrapper
+Mem : Malloc called -- put in index 17
+in MAllocWrapper
+Mem : Malloc called -- put in index 18
+in MAllocWrapper
+Mem : Malloc called -- put in index 19
+in MAllocWrapper
+Mem : Malloc called -- put in index 20
+in MAllocWrapper
+Mem : Malloc called -- put in index 21
+in MAllocWrapper
+Mem : Malloc called -- put in index 22
+in MAllocWrapper
+Mem : Malloc called -- put in index 23
+in MAllocWrapper
+Mem : Malloc called -- put in index 24
+in MAllocWrapper
+Mem : Malloc called -- put in index 25
+in MAllocWrapper
+Mem : Malloc called -- put in index 26
+in MAllocWrapper
+Mem : Malloc called -- put in index 27
+in MAllocWrapper
+Mem : Malloc called -- put in index 28
+in MAllocWrapper
+Mem : Malloc called -- put in index 29
+in MAllocWrapper
+Mem : Malloc called -- put in index 30
+in MAllocWrapper
+Mem : Malloc called -- put in index 31
+in MAllocWrapper
+Mem : Malloc called -- put in index 32
+in MAllocWrapper
+Mem : Malloc called -- put in index 33
+in MAllocWrapper
+Mem : Malloc called -- put in index 34
+in MAllocWrapper
+Mem : Malloc called -- put in index 35
+in MAllocWrapper
+Mem : Malloc called -- put in index 36
+in MAllocWrapper
+Mem : Malloc called -- put in index 37
+in MAllocWrapper
+Mem : Malloc called -- put in index 38
+in MAllocWrapper
+Mem : Malloc called -- put in index 39
+in MAllocWrapper
+Mem : Malloc called -- put in index 40
+in MAllocWrapper
+Mem : Malloc called -- put in index 41
+in MAllocWrapper
+Mem : Malloc called -- put in index 42
+in MAllocWrapper
+Mem : Malloc called -- put in index 43
+in MAllocWrapper
+Mem : Malloc called -- put in index 44
+in MAllocWrapper
+Mem : Malloc called -- put in index 45
+in MAllocWrapper
+Mem : Malloc called -- put in index 46
+in MAllocWrapper
+Mem : Malloc called -- put in index 47
+in MAllocWrapper
+Mem : Malloc called -- put in index 48
+in MAllocWrapper
+Mem : Malloc called -- put in index 49
+in MAllocWrapper
+Mem : Malloc called -- put in index 50
+in MAllocWrapper
+Mem : Malloc called -- put in index 51
+in MAllocWrapper
+Mem : Malloc called -- put in index 52
+in MAllocWrapper
+Mem : Malloc called -- put in index 53
+in MAllocWrapper
+Mem : Malloc called -- put in index 54
+in MAllocWrapper
+Mem : Malloc called -- put in index 55
+in MAllocWrapper
+Mem : Malloc called -- put in index 56
+in MAllocWrapper
+Mem : Malloc called -- put in index 57
+in MAllocWrapper
+Mem : Malloc called -- put in index 58
+in MAllocWrapper
+Mem : Malloc called -- put in index 59
+in MAllocWrapper
+Mem : Malloc called -- put in index 60
+in MAllocWrapper
+Mem : Malloc called -- put in index 61
+in MAllocWrapper
+Mem : Malloc called -- put in index 62
+in MAllocWrapper
+Mem : Malloc called -- put in index 63
+in MAllocWrapper
+Mem : Malloc called -- put in index 64
+in MAllocWrapper
+Mem : Malloc called -- put in index 65
+in MAllocWrapper
+Mem : Malloc called -- put in index 66
+in MAllocWrapper
+Mem : Malloc called -- put in index 67
+in MAllocWrapper
+Mem : Malloc called -- put in index 68
+in MAllocWrapper
+Mem : Malloc called -- put in index 69
+in MAllocWrapper
+Mem : Malloc called -- put in index 70
+in MAllocWrapper
+Mem : Malloc called -- put in index 71
+in MAllocWrapper
+Mem : Malloc called -- put in index 72
+in MAllocWrapper
+Mem : Malloc called -- put in index 73
+in MAllocWrapper
+Mem : Malloc called -- put in index 74
+in MAllocWrapper
+Mem : Malloc called -- put in index 75
+in MAllocWrapper
+Mem : Malloc called -- put in index 76
+in MAllocWrapper
+Mem : Malloc called -- put in index 77
+in MAllocWrapper
+Mem : Malloc called -- put in index 78
+in MAllocWrapper
+Mem : Malloc called -- put in index 79
+in MAllocWrapper
+Mem : Malloc called -- put in index 80
+in MAllocWrapper
+Mem : Malloc called -- put in index 81
+in MAllocWrapper
+Mem : Malloc called -- put in index 82
+in MAllocWrapper
+Mem : Malloc called -- put in index 83
+in MAllocWrapper
+Mem : Malloc called -- put in index 84
+in MAllocWrapper
+Mem : Malloc called -- put in index 85
+in MAllocWrapper
+Mem : Malloc called -- put in index 86
+in MAllocWrapper
+Mem : Malloc called -- put in index 87
+in MAllocWrapper
+Mem : Malloc called -- put in index 88
+in MAllocWrapper
+Mem : Malloc called -- put in index 89
+in MAllocWrapper
+Mem : Malloc called -- put in index 90
+in MAllocWrapper
+Mem : Malloc called -- put in index 91
+in MAllocWrapper
+Mem : Malloc called -- put in index 92
+in MAllocWrapper
+Mem : Malloc called -- put in index 93
+in MAllocWrapper
+Mem : Malloc called -- put in index 94
+in MAllocWrapper
+Mem : Malloc called -- put in index 95
+in MAllocWrapper
+Mem : Malloc called -- put in index 96
+in MAllocWrapper
+Mem : Malloc called -- put in index 97
+in MAllocWrapper
+Mem : Malloc called -- put in index 98
+Mem : Successfull free -- index 66
+Mem : Successfull free -- index 97
+Mem : Successfull free -- index 41
+Mem : Successfull free -- index 45
+Mem : Successfull free -- index 79
+Mem : Successfull free -- index 42
+Mem : Successfull free -- index 67
+Mem : Successfull free -- index 32
+Mem : Successfull free -- index 30
+Mem : Successfull free -- index 0
+Mem : Successfull free -- index 85
+Mem : Successfull free -- index 72
+Mem : Successfull free -- index 44
+Mem : Successfull free -- index 18
+Mem : Successfull free -- index 83
+Mem : Successfull free -- index 60
+Mem : Successfull free -- index 96
+Mem : Successfull free -- index 11
+Mem : Successfull free -- index 98
+Mem : Successfull free -- index 31
+Mem : Successfull free -- index 59
+Mem : Successfull free -- index 95
+Mem : Successfull free -- index 78
+Mem : Successfull free -- index 57
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 73
+Mem : Successfull free -- index 19
+Mem : Successfull free -- index 23
+Mem : Successfull free -- index 75
+Mem : Successfull free -- index 80
+Mem : Successfull free -- index 55
+Mem : Successfull free -- index 29
+Mem : Successfull free -- index 68
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 20
+Mem : Successfull free -- index 5
+Mem : Successfull free -- index 14
+Mem : Successfull free -- index 74
+Mem : Successfull free -- index 25
+Mem : Successfull free -- index 84
+Mem : Successfull free -- index 62
+Mem : Successfull free -- index 92
+Mem : Successfull free -- index 86
+Mem : Successfull free -- index 33
+Mem : Successfull free -- index 50
+Mem : Successfull free -- index 47
+Mem : Successfull free -- index 52
+Mem : Successfull free -- index 35
+Mem : Successfull free -- index 61
+Mem : Successfull free -- index 64
+Mem : Successfull free -- index 21
+Mem : Successfull free -- index 69
+Mem : Successfull free -- index 93
+Mem : Successfull free -- index 53
+Mem : Successfull free -- index 46
+Mem : Successfull free -- index 51
+Mem : Successfull free -- index 70
+Mem : Successfull free -- index 88
+Mem : Successfull free -- index 81
+Mem : Successfull free -- index 17
+Mem : Successfull free -- index 65
+Mem : Successfull free -- index 15
+Mem : Successfull free -- index 90
+Mem : Successfull free -- index 89
+Mem : Successfull free -- index 76
+Mem : Successfull free -- index 13
+Mem : Successfull free -- index 9
+Mem : Successfull free -- index 22
+Mem : Successfull free -- index 40
+Mem : Successfull free -- index 36
+Mem : Successfull free -- index 63
+Mem : Successfull free -- index 94
+Mem : Successfull free -- index 34
+Mem : Successfull free -- index 27
+Mem : Successfull free -- index 49
+Mem : Successfull free -- index 16
+Mem : Successfull free -- index 28
+Mem : Successfull free -- index 48
+Mem : Successfull free -- index 26
+Mem : Successfull free -- index 87
+Mem : Successfull free -- index 58
+Mem : Successfull free -- index 37
+Mem : Successfull free -- index 12
+Mem : Successfull free -- index 91
+Mem : Successfull free -- index 24
+Mem : Successfull free -- index 54
+Mem : Successfull free -- index 56
+Mem : Successfull free -- index 71
+Mem : Successfull free -- index 39
+Mem : Successfull free -- index 43
+Mem : Successfull free -- index 77
+Mem : Successfull free -- index 82
+Mem : Successfull free -- index 38
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 8
+in MAllocWrapper
+Mem : Malloc called -- put in index 0
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+in MAllocWrapper
+Mem : Malloc called -- put in index 9
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 11
+in MAllocWrapper
+Mem : Malloc called -- put in index 12
+in MAllocWrapper
+Mem : Malloc called -- put in index 13
+in MAllocWrapper
+Mem : Malloc called -- put in index 14
+in MAllocWrapper
+Mem : Malloc called -- put in index 15
+in MAllocWrapper
+Mem : Malloc called -- put in index 16
+in MAllocWrapper
+Mem : Malloc called -- put in index 17
+in MAllocWrapper
+Mem : Malloc called -- put in index 18
+in MAllocWrapper
+Mem : Malloc called -- put in index 19
+in MAllocWrapper
+Mem : Malloc called -- put in index 20
+in MAllocWrapper
+Mem : Malloc called -- put in index 21
+in MAllocWrapper
+Mem : Malloc called -- put in index 22
+in MAllocWrapper
+Mem : Malloc called -- put in index 23
+in MAllocWrapper
+Mem : Malloc called -- put in index 24
+in MAllocWrapper
+Mem : Malloc called -- put in index 25
+in MAllocWrapper
+Mem : Malloc called -- put in index 26
+in MAllocWrapper
+Mem : Malloc called -- put in index 27
+in MAllocWrapper
+Mem : Malloc called -- put in index 28
+in MAllocWrapper
+Mem : Malloc called -- put in index 29
+in MAllocWrapper
+Mem : Malloc called -- put in index 30
+in MAllocWrapper
+Mem : Malloc called -- put in index 31
+in MAllocWrapper
+Mem : Malloc called -- put in index 32
+in MAllocWrapper
+Mem : Malloc called -- put in index 33
+in MAllocWrapper
+Mem : Malloc called -- put in index 34
+in MAllocWrapper
+Mem : Malloc called -- put in index 35
+in MAllocWrapper
+Mem : Malloc called -- put in index 36
+in MAllocWrapper
+Mem : Malloc called -- put in index 37
+in MAllocWrapper
+Mem : Malloc called -- put in index 38
+in MAllocWrapper
+Mem : Malloc called -- put in index 39
+in MAllocWrapper
+Mem : Malloc called -- put in index 40
+in MAllocWrapper
+Mem : Malloc called -- put in index 41
+in MAllocWrapper
+Mem : Malloc called -- put in index 42
+in MAllocWrapper
+Mem : Malloc called -- put in index 43
+in MAllocWrapper
+Mem : Malloc called -- put in index 44
+in MAllocWrapper
+Mem : Malloc called -- put in index 45
+in MAllocWrapper
+Mem : Malloc called -- put in index 46
+in MAllocWrapper
+Mem : Malloc called -- put in index 47
+in MAllocWrapper
+Mem : Malloc called -- put in index 48
+in MAllocWrapper
+Mem : Malloc called -- put in index 49
+in MAllocWrapper
+Mem : Malloc called -- put in index 50
+in MAllocWrapper
+Mem : Malloc called -- put in index 51
+in MAllocWrapper
+Mem : Malloc called -- put in index 52
+in MAllocWrapper
+Mem : Malloc called -- put in index 53
+in MAllocWrapper
+Mem : Malloc called -- put in index 54
+in MAllocWrapper
+Mem : Malloc called -- put in index 55
+in MAllocWrapper
+Mem : Malloc called -- put in index 56
+in MAllocWrapper
+Mem : Malloc called -- put in index 57
+in MAllocWrapper
+Mem : Malloc called -- put in index 58
+in MAllocWrapper
+Mem : Malloc called -- put in index 59
+in MAllocWrapper
+Mem : Malloc called -- put in index 60
+in MAllocWrapper
+Mem : Malloc called -- put in index 61
+in MAllocWrapper
+Mem : Malloc called -- put in index 62
+in MAllocWrapper
+Mem : Malloc called -- put in index 63
+in MAllocWrapper
+Mem : Malloc called -- put in index 64
+in MAllocWrapper
+Mem : Malloc called -- put in index 65
+in MAllocWrapper
+Mem : Malloc called -- put in index 66
+in MAllocWrapper
+Mem : Malloc called -- put in index 67
+in MAllocWrapper
+Mem : Malloc called -- put in index 68
+in MAllocWrapper
+Mem : Malloc called -- put in index 69
+in MAllocWrapper
+Mem : Malloc called -- put in index 70
+in MAllocWrapper
+Mem : Malloc called -- put in index 71
+in MAllocWrapper
+Mem : Malloc called -- put in index 72
+in MAllocWrapper
+Mem : Malloc called -- put in index 73
+in MAllocWrapper
+Mem : Malloc called -- put in index 74
+in MAllocWrapper
+Mem : Malloc called -- put in index 75
+in MAllocWrapper
+Mem : Malloc called -- put in index 76
+in MAllocWrapper
+Mem : Malloc called -- put in index 77
+in MAllocWrapper
+Mem : Malloc called -- put in index 78
+in MAllocWrapper
+Mem : Malloc called -- put in index 79
+in MAllocWrapper
+Mem : Malloc called -- put in index 80
+in MAllocWrapper
+Mem : Malloc called -- put in index 81
+in MAllocWrapper
+Mem : Malloc called -- put in index 82
+in MAllocWrapper
+Mem : Malloc called -- put in index 83
+in MAllocWrapper
+Mem : Malloc called -- put in index 84
+in MAllocWrapper
+Mem : Malloc called -- put in index 85
+in MAllocWrapper
+Mem : Malloc called -- put in index 86
+in MAllocWrapper
+Mem : Malloc called -- put in index 87
+in MAllocWrapper
+Mem : Malloc called -- put in index 88
+Mem : Successfull free -- index 59
+Mem : Successfull free -- index 87
+Mem : Successfull free -- index 36
+Mem : Successfull free -- index 39
+Mem : Successfull free -- index 69
+Mem : Successfull free -- index 37
+Mem : Successfull free -- index 60
+Mem : Successfull free -- index 27
+Mem : Successfull free -- index 20
+Mem : Successfull free -- index 0
+Mem : Successfull free -- index 75
+Mem : Successfull free -- index 65
+Mem : Successfull free -- index 38
+Mem : Successfull free -- index 15
+Mem : Successfull free -- index 73
+Mem : Successfull free -- index 53
+Mem : Successfull free -- index 86
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 88
+Mem : Successfull free -- index 26
+Mem : Successfull free -- index 52
+Mem : Successfull free -- index 85
+Mem : Successfull free -- index 67
+Mem : Successfull free -- index 50
+Mem : Successfull free -- index 9
+Mem : Successfull free -- index 66
+Mem : Successfull free -- index 12
+Mem : Successfull free -- index 19
+Mem : Successfull free -- index 70
+Mem : Successfull free -- index 46
+Mem : Successfull free -- index 24
+Mem : Successfull free -- index 61
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 17
+Mem : Successfull free -- index 5
+Mem : Successfull free -- index 22
+Mem : Successfull free -- index 74
+Mem : Successfull free -- index 55
+Mem : Successfull free -- index 82
+Mem : Successfull free -- index 76
+Mem : Successfull free -- index 28
+Mem : Successfull free -- index 43
+Mem : Successfull free -- index 41
+Mem : Successfull free -- index 45
+Mem : Successfull free -- index 30
+Mem : Successfull free -- index 54
+Mem : Successfull free -- index 57
+Mem : Successfull free -- index 80
+Mem : Successfull free -- index 16
+Mem : Successfull free -- index 62
+Mem : Successfull free -- index 83
+Mem : Successfull free -- index 47
+Mem : Successfull free -- index 40
+Mem : Successfull free -- index 44
+Mem : Successfull free -- index 63
+Mem : Successfull free -- index 78
+Mem : Successfull free -- index 71
+Mem : Successfull free -- index 14
+Mem : Successfull free -- index 58
+Mem : Successfull free -- index 79
+Mem : Successfull free -- index 8
+Mem : Successfull free -- index 18
+Mem : Successfull free -- index 35
+Mem : Successfull free -- index 31
+Mem : Successfull free -- index 56
+Mem : Successfull free -- index 84
+Mem : Successfull free -- index 29
+Mem : Successfull free -- index 23
+Mem : Successfull free -- index 42
+Mem : Successfull free -- index 13
+Mem : Successfull free -- index 25
+Mem : Successfull free -- index 77
+Mem : Successfull free -- index 51
+Mem : Successfull free -- index 32
+Mem : Successfull free -- index 11
+Mem : Successfull free -- index 81
+Mem : Successfull free -- index 21
+Mem : Successfull free -- index 48
+Mem : Successfull free -- index 49
+Mem : Successfull free -- index 64
+Mem : Successfull free -- index 34
+Mem : Successfull free -- index 68
+Mem : Successfull free -- index 72
+Mem : Successfull free -- index 33
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 0
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 6
+Mem : Successfull free -- index 5
+Mem : Successfull free -- index 0
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 4
+in MAllocWrapper
+Mem : Malloc called -- put in index 0
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 4
+in MAllocWrapper
+Mem : Malloc called -- put in index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+in MAllocWrapper
+Mem : Malloc called -- put in index 9
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 11
+in MAllocWrapper
+Mem : Malloc called -- put in index 12
+in MAllocWrapper
+Mem : Malloc called -- put in index 13
+in MAllocWrapper
+Mem : Malloc called -- put in index 14
+in MAllocWrapper
+Mem : Malloc called -- put in index 15
+in MAllocWrapper
+Mem : Malloc called -- put in index 16
+in MAllocWrapper
+Mem : Malloc called -- put in index 17
+in MAllocWrapper
+Mem : Malloc called -- put in index 18
+Mem : Successfull free -- index 9
+Mem : Successfull free -- index 17
+Mem : Successfull free -- index 18
+Mem : Successfull free -- index 11
+Mem : Successfull free -- index 5
+Mem : Successfull free -- index 15
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 13
+Mem : Successfull free -- index 2
+in MAllocWrapper
+Mem : Malloc called -- put in index 2
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 2
+Mem : Successfull free -- index 16
+in MAllocWrapper
+Mem : Malloc called -- put in index 2
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 9
+in MAllocWrapper
+Mem : Malloc called -- put in index 11
+in MAllocWrapper
+Mem : Malloc called -- put in index 13
+in MAllocWrapper
+Mem : Malloc called -- put in index 15
+in MAllocWrapper
+Mem : Malloc called -- put in index 16
+in MAllocWrapper
+Mem : Malloc called -- put in index 17
+in MAllocWrapper
+Mem : Malloc called -- put in index 18
+in MAllocWrapper
+Mem : Malloc called -- put in index 19
+in MAllocWrapper
+Mem : Malloc called -- put in index 20
+in MAllocWrapper
+Mem : Malloc called -- put in index 21
+in MAllocWrapper
+Mem : Malloc called -- put in index 22
+in MAllocWrapper
+Mem : Malloc called -- put in index 23
+in MAllocWrapper
+Mem : Malloc called -- put in index 24
+in MAllocWrapper
+Mem : Malloc called -- put in index 25
+Mem : Successfull free -- index 2
+Mem : Successfull free -- index 20
+Mem : Successfull free -- index 23
+Mem : Successfull free -- index 15
+Mem : Successfull free -- index 24
+Mem : Successfull free -- index 16
+Mem : Successfull free -- index 25
+Mem : Successfull free -- index 22
+Mem : Successfull free -- index 13
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 9
+Mem : Successfull free -- index 11
+Mem : Successfull free -- index 19
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 17
+Mem : Successfull free -- index 21
+Mem : Successfull free -- index 18
+Mem : Successfull free -- index 5
+Mem : Successfull free -- index 14
+in MAllocWrapper
+Mem : Malloc called -- put in index 2
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 9
+in MAllocWrapper
+Mem : Malloc called -- put in index 11
+in MAllocWrapper
+Mem : Malloc called -- put in index 13
+in MAllocWrapper
+Mem : Malloc called -- put in index 14
+in MAllocWrapper
+Mem : Malloc called -- put in index 15
+in MAllocWrapper
+Mem : Malloc called -- put in index 16
+in MAllocWrapper
+Mem : Malloc called -- put in index 17
+in MAllocWrapper
+Mem : Malloc called -- put in index 18
+in MAllocWrapper
+Mem : Malloc called -- put in index 19
+in MAllocWrapper
+Mem : Malloc called -- put in index 20
+in MAllocWrapper
+Mem : Malloc called -- put in index 21
+Mem : Successfull free -- index 5
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 11
+Mem : Successfull free -- index 18
+Mem : Successfull free -- index 2
+Mem : Successfull free -- index 20
+Mem : Successfull free -- index 16
+Mem : Successfull free -- index 13
+Mem : Successfull free -- index 9
+Mem : Successfull free -- index 21
+Mem : Successfull free -- index 19
+Mem : Successfull free -- index 17
+Mem : Successfull free -- index 15
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 14
+Mem : Successfull free -- index 12
+in MAllocWrapper
+Mem : Malloc called -- put in index 2
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 9
+in MAllocWrapper
+Mem : Malloc called -- put in index 11
+in MAllocWrapper
+Mem : Malloc called -- put in index 12
+in MAllocWrapper
+Mem : Malloc called -- put in index 13
+in MAllocWrapper
+Mem : Malloc called -- put in index 14
+in MAllocWrapper
+Mem : Malloc called -- put in index 15
+in MAllocWrapper
+Mem : Malloc called -- put in index 16
+in MAllocWrapper
+Mem : Malloc called -- put in index 17
+in MAllocWrapper
+Mem : Malloc called -- put in index 18
+in MAllocWrapper
+Mem : Malloc called -- put in index 19
+in MAllocWrapper
+Mem : Malloc called -- put in index 20
+in MAllocWrapper
+Mem : Malloc called -- put in index 21
+in MAllocWrapper
+Mem : Malloc called -- put in index 22
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 20
+Mem : Successfull free -- index 19
+Mem : Successfull free -- index 21
+Mem : Successfull free -- index 22
+Mem : Successfull free -- index 13
+Mem : Successfull free -- index 16
+Mem : Successfull free -- index 15
+Mem : Successfull free -- index 14
+Mem : Successfull free -- index 12
+Mem : Successfull free -- index 18
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 2
+Mem : Successfull free -- index 9
+Mem : Successfull free -- index 17
+Mem : Successfull free -- index 11
+Mem : Successfull free -- index 5
+Mem : Successfull free -- index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 2
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 9
+Mem : Successfull free -- index 5
+Mem : Successfull free -- index 9
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 2
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 8
+in MAllocWrapper
+Mem : Malloc called -- put in index 2
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+in MAllocWrapper
+Mem : Malloc called -- put in index 9
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 11
+in MAllocWrapper
+Mem : Malloc called -- put in index 12
+in MAllocWrapper
+Mem : Malloc called -- put in index 13
+in MAllocWrapper
+Mem : Malloc called -- put in index 14
+in MAllocWrapper
+Mem : Malloc called -- put in index 15
+in MAllocWrapper
+Mem : Malloc called -- put in index 16
+in MAllocWrapper
+Mem : Malloc called -- put in index 17
+in MAllocWrapper
+Mem : Malloc called -- put in index 18
+in MAllocWrapper
+Mem : Malloc called -- put in index 19
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 15
+Mem : Successfull free -- index 14
+Mem : Successfull free -- index 2
+Mem : Successfull free -- index 9
+Mem : Successfull free -- index 12
+Mem : Successfull free -- index 13
+Mem : Successfull free -- index 19
+Mem : Successfull free -- index 8
+Mem : Successfull free -- index 5
+Mem : Successfull free -- index 18
+Mem : Successfull free -- index 17
+Mem : Successfull free -- index 16
+Mem : Successfull free -- index 11
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 2
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+Mem : Successfull free -- index 8
+Mem : Successfull free -- index 6
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 4
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 4
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+in MAllocWrapper
+Mem : Malloc called -- put in index 9
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 11
+in MAllocWrapper
+Mem : Malloc called -- put in index 12
+in MAllocWrapper
+Mem : Malloc called -- put in index 13
+in MAllocWrapper
+Mem : Malloc called -- put in index 14
+in MAllocWrapper
+Mem : Malloc called -- put in index 15
+in MAllocWrapper
+Mem : Malloc called -- put in index 16
+in MAllocWrapper
+Mem : Malloc called -- put in index 17
+Mem : Successfull free -- index 8
+Mem : Successfull free -- index 17
+Mem : Successfull free -- index 16
+Mem : Successfull free -- index 15
+Mem : Successfull free -- index 12
+Mem : Successfull free -- index 14
+Mem : Successfull free -- index 4
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 4
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 12
+in MAllocWrapper
+Mem : Malloc called -- put in index 14
+Mem : Successfull free -- index 12
+Mem : Successfull free -- index 4
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 8
+Mem : Successfull free -- index 14
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 13
+in MAllocWrapper
+Mem : Malloc called -- put in index 4
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 12
+Mem : Successfull free -- index 4
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 12
+Mem : Successfull free -- index 8
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 11
+in MAllocWrapper
+Mem : Malloc called -- put in index 4
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+Mem : Successfull free -- index 8
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 4
+Mem : Successfull free -- index 9
+in MAllocWrapper
+Mem : Malloc called -- put in index 4
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+in MAllocWrapper
+Mem : Malloc called -- put in index 9
+Mem : Successfull free -- index 9
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 4
+Mem : Successfull free -- index 8
+Mem : Successfull free -- index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 4
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+Mem : Successfull free -- index 4
+Mem : Successfull free -- index 6
+Mem : Successfull free -- index 8
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 4
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+in MAllocWrapper
+Mem : Malloc called -- put in index 9
+Mem : Successfull free -- index 4
+Mem : Successfull free -- index 8
+Mem : Successfull free -- index 6
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 9
+Mem : Successfull free -- index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 4
+in MAllocWrapper
+Mem : Malloc called -- put in index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+in MAllocWrapper
+Mem : Malloc called -- put in index 9
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 11
+in MAllocWrapper
+Mem : Malloc called -- put in index 12
+in MAllocWrapper
+Mem : Malloc called -- put in index 13
+in MAllocWrapper
+Mem : Malloc called -- put in index 14
+in MAllocWrapper
+Mem : Malloc called -- put in index 15
+in MAllocWrapper
+Mem : Malloc called -- put in index 16
+in MAllocWrapper
+Mem : Malloc called -- put in index 17
+in MAllocWrapper
+Mem : Malloc called -- put in index 18
+in MAllocWrapper
+Mem : Malloc called -- put in index 19
+in MAllocWrapper
+Mem : Malloc called -- put in index 20
+Mem : Successfull free -- index 11
+Mem : Successfull free -- index 16
+Mem : Successfull free -- index 15
+Mem : Successfull free -- index 6
+Mem : Successfull free -- index 8
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 20
+Mem : Successfull free -- index 4
+Mem : Successfull free -- index 14
+Mem : Successfull free -- index 17
+Mem : Successfull free -- index 19
+Mem : Successfull free -- index 13
+Mem : Successfull free -- index 12
+Mem : Successfull free -- index 18
+Mem : Successfull free -- index 2
+in MAllocWrapper
+Mem : Malloc called -- put in index 2
+in MAllocWrapper
+Mem : Malloc called -- put in index 4
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 11
+Mem : Successfull free -- index 6
+Mem : Successfull free -- index 11
+Mem : Successfull free -- index 4
+Mem : Successfull free -- index 2
+Mem : Successfull free -- index 8
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 9
+in MAllocWrapper
+Mem : Malloc called -- put in index 2
+in MAllocWrapper
+Mem : Malloc called -- put in index 4
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+in MAllocWrapper
+Mem : Malloc called -- put in index 9
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 11
+Mem : Successfull free -- index 4
+Mem : Successfull free -- index 11
+Mem : Successfull free -- index 6
+Mem : Successfull free -- index 9
+Mem : Successfull free -- index 2
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 8
+Mem : Successfull free -- index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 2
+in MAllocWrapper
+Mem : Malloc called -- put in index 4
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+in MAllocWrapper
+Mem : Malloc called -- put in index 9
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+Mem : Successfull free -- index 2
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 8
+Mem : Successfull free -- index 9
+Mem : Successfull free -- index 6
+Mem : Successfull free -- index 4
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 2
+in MAllocWrapper
+Mem : Malloc called -- put in index 4
+in MAllocWrapper
+Mem : Malloc called -- put in index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+in MAllocWrapper
+Mem : Malloc called -- put in index 9
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 11
+in MAllocWrapper
+Mem : Malloc called -- put in index 12
+in MAllocWrapper
+Mem : Malloc called -- put in index 13
+in MAllocWrapper
+Mem : Malloc called -- put in index 14
+in MAllocWrapper
+Mem : Malloc called -- put in index 15
+in MAllocWrapper
+Mem : Malloc called -- put in index 16
+in MAllocWrapper
+Mem : Malloc called -- put in index 17
+in MAllocWrapper
+Mem : Malloc called -- put in index 18
+in MAllocWrapper
+Mem : Malloc called -- put in index 19
+in MAllocWrapper
+Mem : Malloc called -- put in index 20
+in MAllocWrapper
+Mem : Malloc called -- put in index 21
+in MAllocWrapper
+Mem : Malloc called -- put in index 22
+in MAllocWrapper
+Mem : Malloc called -- put in index 23
+in MAllocWrapper
+Mem : Malloc called -- put in index 24
+in MAllocWrapper
+Mem : Malloc called -- put in index 25
+in MAllocWrapper
+Mem : Malloc called -- put in index 26
+in MAllocWrapper
+Mem : Malloc called -- put in index 27
+in MAllocWrapper
+Mem : Malloc called -- put in index 28
+in MAllocWrapper
+Mem : Malloc called -- put in index 29
+Mem : Successfull free -- index 6
+Mem : Successfull free -- index 29
+Mem : Successfull free -- index 28
+Mem : Successfull free -- index 16
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 26
+Mem : Successfull free -- index 20
+Mem : Successfull free -- index 22
+Mem : Successfull free -- index 13
+Mem : Successfull free -- index 25
+Mem : Successfull free -- index 23
+Mem : Successfull free -- index 11
+Mem : Successfull free -- index 17
+Mem : Successfull free -- index 8
+Mem : Successfull free -- index 24
+Mem : Successfull free -- index 15
+Mem : Successfull free -- index 4
+Mem : Successfull free -- index 27
+Mem : Successfull free -- index 21
+Mem : Successfull free -- index 12
+Mem : Successfull free -- index 14
+Mem : Successfull free -- index 9
+Mem : Successfull free -- index 19
+Mem : Successfull free -- index 18
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 4
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+in MAllocWrapper
+Mem : Malloc called -- put in index 9
+Mem : Successfull free -- index 9
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 8
+Mem : Successfull free -- index 4
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 6
+Mem : Successfull free -- index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 4
+in MAllocWrapper
+Mem : Malloc called -- put in index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 5
+Mem : Successfull free -- index 6
+Mem : Successfull free -- index 4
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 2
+in MAllocWrapper
+Mem : Malloc called -- put in index 2
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 4
+in MAllocWrapper
+Mem : Malloc called -- put in index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+in MAllocWrapper
+Mem : Malloc called -- put in index 9
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 11
+in MAllocWrapper
+Mem : Malloc called -- put in index 12
+in MAllocWrapper
+Mem : Malloc called -- put in index 13
+in MAllocWrapper
+Mem : Malloc called -- put in index 14
+in MAllocWrapper
+Mem : Malloc called -- put in index 15
+in MAllocWrapper
+Mem : Malloc called -- put in index 16
+in MAllocWrapper
+Mem : Malloc called -- put in index 17
+in MAllocWrapper
+Mem : Malloc called -- put in index 18
+in MAllocWrapper
+Mem : Malloc called -- put in index 19
+in MAllocWrapper
+Mem : Malloc called -- put in index 20
+Mem : Successfull free -- index 4
+Mem : Successfull free -- index 20
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 16
+Mem : Successfull free -- index 18
+Mem : Successfull free -- index 6
+Mem : Successfull free -- index 15
+Mem : Successfull free -- index 5
+Mem : Successfull free -- index 14
+Mem : Successfull free -- index 12
+Mem : Successfull free -- index 13
+Mem : Successfull free -- index 19
+Mem : Successfull free -- index 8
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 11
+Mem : Successfull free -- index 17
+Mem : Successfull free -- index 2
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 9
+Mem : Successfull free -- index 0
+in MAllocWrapper
+Mem : Malloc called -- put in index 0
+in MAllocWrapper
+Mem : Malloc called -- put in index 2
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 4
+in MAllocWrapper
+Mem : Malloc called -- put in index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+in MAllocWrapper
+Mem : Malloc called -- put in index 9
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 11
+in MAllocWrapper
+Mem : Malloc called -- put in index 12
+in MAllocWrapper
+Mem : Malloc called -- put in index 13
+in MAllocWrapper
+Mem : Malloc called -- put in index 14
+in MAllocWrapper
+Mem : Malloc called -- put in index 15
+in MAllocWrapper
+Mem : Malloc called -- put in index 16
+in MAllocWrapper
+Mem : Malloc called -- put in index 17
+in MAllocWrapper
+Mem : Malloc called -- put in index 18
+in MAllocWrapper
+Mem : Malloc called -- put in index 19
+in MAllocWrapper
+Mem : Malloc called -- put in index 20
+in MAllocWrapper
+Mem : Malloc called -- put in index 21
+in MAllocWrapper
+Mem : Malloc called -- put in index 22
+in MAllocWrapper
+Mem : Malloc called -- put in index 23
+in MAllocWrapper
+Mem : Malloc called -- put in index 24
+in MAllocWrapper
+Mem : Malloc called -- put in index 25
+in MAllocWrapper
+Mem : Malloc called -- put in index 26
+in MAllocWrapper
+Mem : Malloc called -- put in index 27
+in MAllocWrapper
+Mem : Malloc called -- put in index 28
+in MAllocWrapper
+Mem : Malloc called -- put in index 29
+in MAllocWrapper
+Mem : Malloc called -- put in index 30
+in MAllocWrapper
+Mem : Malloc called -- put in index 31
+in MAllocWrapper
+Mem : Malloc called -- put in index 32
+in MAllocWrapper
+Mem : Malloc called -- put in index 33
+in MAllocWrapper
+Mem : Malloc called -- put in index 34
+in MAllocWrapper
+Mem : Malloc called -- put in index 35
+in MAllocWrapper
+Mem : Malloc called -- put in index 36
+in MAllocWrapper
+Mem : Malloc called -- put in index 37
+in MAllocWrapper
+Mem : Malloc called -- put in index 38
+in MAllocWrapper
+Mem : Malloc called -- put in index 39
+in MAllocWrapper
+Mem : Malloc called -- put in index 40
+Mem : Successfull free -- index 25
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 2
+Mem : Successfull free -- index 27
+Mem : Successfull free -- index 22
+Mem : Successfull free -- index 23
+Mem : Successfull free -- index 8
+Mem : Successfull free -- index 5
+Mem : Successfull free -- index 15
+Mem : Successfull free -- index 21
+Mem : Successfull free -- index 18
+Mem : Successfull free -- index 9
+Mem : Successfull free -- index 30
+Mem : Successfull free -- index 26
+Mem : Successfull free -- index 32
+Mem : Successfull free -- index 29
+Mem : Successfull free -- index 16
+Mem : Successfull free -- index 13
+Mem : Successfull free -- index 40
+Mem : Successfull free -- index 38
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 20
+Mem : Successfull free -- index 36
+Mem : Successfull free -- index 34
+Mem : Successfull free -- index 12
+Mem : Successfull free -- index 6
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 33
+Mem : Successfull free -- index 1
+in MAllocWrapper
+Mem : Malloc called -- put in index 1
+Mem : Successfull free -- index 1
+Mem : Successfull free -- index 39
+in MAllocWrapper
+Mem : Malloc called -- put in index 1
+Mem : Successfull free -- index 1
+Mem : Successfull free -- index 37
+in MAllocWrapper
+Mem : Malloc called -- put in index 1
+Mem : Successfull free -- index 1
+Mem : Successfull free -- index 35
+in MAllocWrapper
+Mem : Malloc called -- put in index 1
+in MAllocWrapper
+Mem : Malloc called -- put in index 2
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 5
+Mem : Successfull free -- index 2
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 5
+Mem : Successfull free -- index 1
+Mem : Successfull free -- index 31
+in MAllocWrapper
+Mem : Malloc called -- put in index 1
+in MAllocWrapper
+Mem : Malloc called -- put in index 2
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+Mem : Successfull free -- index 6
+Mem : Successfull free -- index 5
+Mem : Successfull free -- index 2
+Mem : Successfull free -- index 8
+Mem : Successfull free -- index 1
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 28
+in MAllocWrapper
+Mem : Malloc called -- put in index 1
+in MAllocWrapper
+Mem : Malloc called -- put in index 2
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 5
+Mem : Successfull free -- index 2
+Mem : Successfull free -- index 5
+Mem : Successfull free -- index 24
+in MAllocWrapper
+Mem : Malloc called -- put in index 2
+in MAllocWrapper
+Mem : Malloc called -- put in index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+in MAllocWrapper
+Mem : Malloc called -- put in index 9
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 12
+in MAllocWrapper
+Mem : Malloc called -- put in index 13
+in MAllocWrapper
+Mem : Malloc called -- put in index 15
+in MAllocWrapper
+Mem : Malloc called -- put in index 16
+in MAllocWrapper
+Mem : Malloc called -- put in index 18
+in MAllocWrapper
+Mem : Malloc called -- put in index 20
+in MAllocWrapper
+Mem : Malloc called -- put in index 21
+in MAllocWrapper
+Mem : Malloc called -- put in index 22
+in MAllocWrapper
+Mem : Malloc called -- put in index 23
+in MAllocWrapper
+Mem : Malloc called -- put in index 24
+in MAllocWrapper
+Mem : Malloc called -- put in index 25
+in MAllocWrapper
+Mem : Malloc called -- put in index 26
+in MAllocWrapper
+Mem : Malloc called -- put in index 27
+in MAllocWrapper
+Mem : Malloc called -- put in index 28
+in MAllocWrapper
+Mem : Malloc called -- put in index 29
+in MAllocWrapper
+Mem : Malloc called -- put in index 30
+in MAllocWrapper
+Mem : Malloc called -- put in index 31
+in MAllocWrapper
+Mem : Malloc called -- put in index 32
+in MAllocWrapper
+Mem : Malloc called -- put in index 33
+in MAllocWrapper
+Mem : Malloc called -- put in index 34
+in MAllocWrapper
+Mem : Malloc called -- put in index 35
+in MAllocWrapper
+Mem : Malloc called -- put in index 36
+in MAllocWrapper
+Mem : Malloc called -- put in index 37
+Mem : Successfull free -- index 34
+Mem : Successfull free -- index 33
+Mem : Successfull free -- index 18
+Mem : Successfull free -- index 32
+Mem : Successfull free -- index 12
+Mem : Successfull free -- index 31
+Mem : Successfull free -- index 30
+Mem : Successfull free -- index 29
+Mem : Successfull free -- index 28
+Mem : Successfull free -- index 27
+Mem : Successfull free -- index 9
+Mem : Successfull free -- index 26
+Mem : Successfull free -- index 25
+Mem : Successfull free -- index 24
+Mem : Successfull free -- index 23
+Mem : Successfull free -- index 22
+Mem : Successfull free -- index 21
+Mem : Successfull free -- index 20
+Mem : Successfull free -- index 15
+Mem : Successfull free -- index 13
+Mem : Successfull free -- index 5
+Mem : Successfull free -- index 37
+Mem : Successfull free -- index 6
+Mem : Successfull free -- index 35
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 5
+Mem : Successfull free -- index 5
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 36
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 9
+in MAllocWrapper
+Mem : Malloc called -- put in index 12
+in MAllocWrapper
+Mem : Malloc called -- put in index 13
+in MAllocWrapper
+Mem : Malloc called -- put in index 15
+in MAllocWrapper
+Mem : Malloc called -- put in index 18
+in MAllocWrapper
+Mem : Malloc called -- put in index 20
+in MAllocWrapper
+Mem : Malloc called -- put in index 21
+in MAllocWrapper
+Mem : Malloc called -- put in index 22
+in MAllocWrapper
+Mem : Malloc called -- put in index 23
+in MAllocWrapper
+Mem : Malloc called -- put in index 24
+in MAllocWrapper
+Mem : Malloc called -- put in index 25
+in MAllocWrapper
+Mem : Malloc called -- put in index 26
+in MAllocWrapper
+Mem : Malloc called -- put in index 27
+in MAllocWrapper
+Mem : Malloc called -- put in index 28
+in MAllocWrapper
+Mem : Malloc called -- put in index 29
+in MAllocWrapper
+Mem : Malloc called -- put in index 30
+Mem : Successfull free -- index 30
+Mem : Successfull free -- index 29
+Mem : Successfull free -- index 28
+Mem : Successfull free -- index 27
+Mem : Successfull free -- index 26
+Mem : Successfull free -- index 25
+Mem : Successfull free -- index 24
+Mem : Successfull free -- index 23
+Mem : Successfull free -- index 22
+Mem : Successfull free -- index 21
+Mem : Successfull free -- index 20
+Mem : Successfull free -- index 18
+Mem : Successfull free -- index 15
+Mem : Successfull free -- index 13
+Mem : Successfull free -- index 12
+Mem : Successfull free -- index 9
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 6
+Mem : Successfull free -- index 5
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 16
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 9
+in MAllocWrapper
+Mem : Malloc called -- put in index 12
+in MAllocWrapper
+Mem : Malloc called -- put in index 13
+in MAllocWrapper
+Mem : Malloc called -- put in index 15
+in MAllocWrapper
+Mem : Malloc called -- put in index 16
+in MAllocWrapper
+Mem : Malloc called -- put in index 18
+in MAllocWrapper
+Mem : Malloc called -- put in index 20
+in MAllocWrapper
+Mem : Malloc called -- put in index 21
+in MAllocWrapper
+Mem : Malloc called -- put in index 22
+in MAllocWrapper
+Mem : Malloc called -- put in index 23
+in MAllocWrapper
+Mem : Malloc called -- put in index 24
+in MAllocWrapper
+Mem : Malloc called -- put in index 25
+in MAllocWrapper
+Mem : Malloc called -- put in index 26
+in MAllocWrapper
+Mem : Malloc called -- put in index 27
+in MAllocWrapper
+Mem : Malloc called -- put in index 28
+in MAllocWrapper
+Mem : Malloc called -- put in index 29
+in MAllocWrapper
+Mem : Malloc called -- put in index 30
+Mem : Successfull free -- index 30
+Mem : Successfull free -- index 29
+Mem : Successfull free -- index 28
+Mem : Successfull free -- index 27
+Mem : Successfull free -- index 26
+Mem : Successfull free -- index 25
+Mem : Successfull free -- index 24
+Mem : Successfull free -- index 23
+Mem : Successfull free -- index 22
+Mem : Successfull free -- index 21
+Mem : Successfull free -- index 20
+Mem : Successfull free -- index 18
+Mem : Successfull free -- index 16
+Mem : Successfull free -- index 15
+Mem : Successfull free -- index 13
+Mem : Successfull free -- index 12
+Mem : Successfull free -- index 9
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 6
+Mem : Successfull free -- index 5
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 9
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 12
+in MAllocWrapper
+Mem : Malloc called -- put in index 13
+in MAllocWrapper
+Mem : Malloc called -- put in index 15
+Mem : Successfull free -- index 15
+Mem : Successfull free -- index 13
+Mem : Successfull free -- index 12
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 9
+Mem : Successfull free -- index 5
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 6
+Mem : Successfull free -- index 8
+in MAllocWrapper
+Mem : Malloc called -- put in index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+in MAllocWrapper
+Mem : Malloc called -- put in index 9
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 12
+Mem : Successfull free -- index 8
+Mem : Successfull free -- index 6
+Mem : Successfull free -- index 12
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 9
+Mem : Successfull free -- index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+in MAllocWrapper
+Mem : Malloc called -- put in index 9
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 12
+in MAllocWrapper
+Mem : Malloc called -- put in index 13
+Mem : Successfull free -- index 13
+Mem : Successfull free -- index 12
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 9
+Mem : Successfull free -- index 8
+Mem : Successfull free -- index 6
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+in MAllocWrapper
+Mem : Malloc called -- put in index 9
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 12
+in MAllocWrapper
+Mem : Malloc called -- put in index 13
+in MAllocWrapper
+Mem : Malloc called -- put in index 15
+in MAllocWrapper
+Mem : Malloc called -- put in index 16
+in MAllocWrapper
+Mem : Malloc called -- put in index 18
+Mem : Successfull free -- index 18
+Mem : Successfull free -- index 16
+Mem : Successfull free -- index 15
+Mem : Successfull free -- index 13
+Mem : Successfull free -- index 12
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 9
+Mem : Successfull free -- index 8
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 6
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+in MAllocWrapper
+Mem : Malloc called -- put in index 9
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 12
+in MAllocWrapper
+Mem : Malloc called -- put in index 13
+Mem : Successfull free -- index 13
+Mem : Successfull free -- index 12
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 9
+Mem : Successfull free -- index 8
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 6
+Mem : Successfull free -- index 5
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 2
+in MAllocWrapper
+Mem : Malloc called -- put in index 2
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+in MAllocWrapper
+Mem : Malloc called -- put in index 9
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 12
+in MAllocWrapper
+Mem : Malloc called -- put in index 13
+in MAllocWrapper
+Mem : Malloc called -- put in index 15
+in MAllocWrapper
+Mem : Malloc called -- put in index 16
+in MAllocWrapper
+Mem : Malloc called -- put in index 18
+in MAllocWrapper
+Mem : Malloc called -- put in index 20
+in MAllocWrapper
+Mem : Malloc called -- put in index 21
+in MAllocWrapper
+Mem : Malloc called -- put in index 22
+in MAllocWrapper
+Mem : Malloc called -- put in index 23
+in MAllocWrapper
+Mem : Malloc called -- put in index 24
+in MAllocWrapper
+Mem : Malloc called -- put in index 25
+in MAllocWrapper
+Mem : Malloc called -- put in index 26
+in MAllocWrapper
+Mem : Malloc called -- put in index 27
+in MAllocWrapper
+Mem : Malloc called -- put in index 28
+in MAllocWrapper
+Mem : Malloc called -- put in index 29
+in MAllocWrapper
+Mem : Malloc called -- put in index 30
+in MAllocWrapper
+Mem : Malloc called -- put in index 31
+in MAllocWrapper
+Mem : Malloc called -- put in index 32
+in MAllocWrapper
+Mem : Malloc called -- put in index 33
+in MAllocWrapper
+Mem : Malloc called -- put in index 34
+in MAllocWrapper
+Mem : Malloc called -- put in index 35
+in MAllocWrapper
+Mem : Malloc called -- put in index 36
+in MAllocWrapper
+Mem : Malloc called -- put in index 37
+in MAllocWrapper
+Mem : Malloc called -- put in index 38
+in MAllocWrapper
+Mem : Malloc called -- put in index 39
+in MAllocWrapper
+Mem : Malloc called -- put in index 40
+in MAllocWrapper
+Mem : Malloc called -- put in index 41
+in MAllocWrapper
+Mem : Malloc called -- put in index 42
+in MAllocWrapper
+Mem : Malloc called -- put in index 43
+in MAllocWrapper
+Mem : Malloc called -- put in index 44
+in MAllocWrapper
+Mem : Malloc called -- put in index 45
+in MAllocWrapper
+Mem : Malloc called -- put in index 46
+Mem : Successfull free -- index 45
+Mem : Successfull free -- index 30
+Mem : Successfull free -- index 27
+Mem : Successfull free -- index 44
+Mem : Successfull free -- index 43
+Mem : Successfull free -- index 25
+Mem : Successfull free -- index 42
+Mem : Successfull free -- index 41
+Mem : Successfull free -- index 40
+Mem : Successfull free -- index 39
+Mem : Successfull free -- index 38
+Mem : Successfull free -- index 23
+Mem : Successfull free -- index 46
+Mem : Successfull free -- index 37
+Mem : Successfull free -- index 36
+Mem : Successfull free -- index 35
+Mem : Successfull free -- index 34
+Mem : Successfull free -- index 33
+Mem : Successfull free -- index 32
+Mem : Successfull free -- index 31
+Mem : Successfull free -- index 16
+Mem : Successfull free -- index 28
+Mem : Successfull free -- index 13
+Mem : Successfull free -- index 21
+Mem : Successfull free -- index 20
+Mem : Successfull free -- index 18
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 9
+Mem : Successfull free -- index 8
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 5
+Mem : Successfull free -- index 6
+Mem : Successfull free -- index 1
+in MAllocWrapper
+Mem : Malloc called -- put in index 1
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+in MAllocWrapper
+Mem : Malloc called -- put in index 9
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 13
+in MAllocWrapper
+Mem : Malloc called -- put in index 16
+Mem : Successfull free -- index 16
+Mem : Successfull free -- index 13
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 9
+Mem : Successfull free -- index 8
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 6
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 5
+Mem : Successfull free -- index 1
+Mem : Successfull free -- index 29
+in MAllocWrapper
+Mem : Malloc called -- put in index 1
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+in MAllocWrapper
+Mem : Malloc called -- put in index 9
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 13
+in MAllocWrapper
+Mem : Malloc called -- put in index 16
+in MAllocWrapper
+Mem : Malloc called -- put in index 18
+in MAllocWrapper
+Mem : Malloc called -- put in index 20
+in MAllocWrapper
+Mem : Malloc called -- put in index 21
+in MAllocWrapper
+Mem : Malloc called -- put in index 23
+in MAllocWrapper
+Mem : Malloc called -- put in index 25
+in MAllocWrapper
+Mem : Malloc called -- put in index 27
+in MAllocWrapper
+Mem : Malloc called -- put in index 28
+Mem : Successfull free -- index 23
+Mem : Successfull free -- index 28
+Mem : Successfull free -- index 20
+Mem : Successfull free -- index 27
+Mem : Successfull free -- index 25
+Mem : Successfull free -- index 16
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 8
+Mem : Successfull free -- index 6
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 26
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 21
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 18
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 13
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 9
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 1
+in MAllocWrapper
+Mem : Malloc called -- put in index 1
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+in MAllocWrapper
+Mem : Malloc called -- put in index 9
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 13
+in MAllocWrapper
+Mem : Malloc called -- put in index 16
+Mem : Successfull free -- index 13
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 9
+Mem : Successfull free -- index 16
+Mem : Successfull free -- index 8
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 6
+Mem : Successfull free -- index 5
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 1
+Mem : Successfull free -- index 24
+in MAllocWrapper
+Mem : Malloc called -- put in index 1
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 6
+Mem : Successfull free -- index 5
+Mem : Successfull free -- index 22
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 6
+Mem : Successfull free -- index 5
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 1
+in MAllocWrapper
+Mem : Malloc called -- put in index 1
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+in MAllocWrapper
+Mem : Malloc called -- put in index 9
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 13
+in MAllocWrapper
+Mem : Malloc called -- put in index 16
+in MAllocWrapper
+Mem : Malloc called -- put in index 18
+in MAllocWrapper
+Mem : Malloc called -- put in index 20
+in MAllocWrapper
+Mem : Malloc called -- put in index 21
+in MAllocWrapper
+Mem : Malloc called -- put in index 22
+in MAllocWrapper
+Mem : Malloc called -- put in index 23
+in MAllocWrapper
+Mem : Malloc called -- put in index 24
+in MAllocWrapper
+Mem : Malloc called -- put in index 25
+Mem : Successfull free -- index 20
+Mem : Successfull free -- index 25
+Mem : Successfull free -- index 24
+Mem : Successfull free -- index 23
+Mem : Successfull free -- index 22
+Mem : Successfull free -- index 21
+Mem : Successfull free -- index 16
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 8
+Mem : Successfull free -- index 6
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 15
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 15
+in MAllocWrapper
+Mem : Malloc called -- put in index 16
+in MAllocWrapper
+Mem : Malloc called -- put in index 20
+Mem : Successfull free -- index 20
+Mem : Successfull free -- index 16
+Mem : Successfull free -- index 15
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 8
+Mem : Successfull free -- index 6
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 18
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 13
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 13
+in MAllocWrapper
+Mem : Malloc called -- put in index 15
+Mem : Successfull free -- index 13
+Mem : Successfull free -- index 15
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 8
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 6
+Mem : Successfull free -- index 9
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+in MAllocWrapper
+Mem : Malloc called -- put in index 9
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 13
+in MAllocWrapper
+Mem : Malloc called -- put in index 15
+Mem : Successfull free -- index 13
+Mem : Successfull free -- index 15
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 9
+Mem : Successfull free -- index 8
+Mem : Successfull free -- index 6
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+in MAllocWrapper
+Mem : Malloc called -- put in index 9
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+Mem : Successfull free -- index 9
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 8
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 6
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+in MAllocWrapper
+Mem : Malloc called -- put in index 9
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+Mem : Successfull free -- index 9
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 8
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 6
+Mem : Successfull free -- index 5
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 1
+in MAllocWrapper
+Mem : Malloc called -- put in index 1
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+in MAllocWrapper
+Mem : Malloc called -- put in index 9
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 13
+in MAllocWrapper
+Mem : Malloc called -- put in index 15
+in MAllocWrapper
+Mem : Malloc called -- put in index 16
+in MAllocWrapper
+Mem : Malloc called -- put in index 18
+in MAllocWrapper
+Mem : Malloc called -- put in index 20
+in MAllocWrapper
+Mem : Malloc called -- put in index 21
+Mem : Successfull free -- index 20
+Mem : Successfull free -- index 18
+Mem : Successfull free -- index 16
+Mem : Successfull free -- index 15
+Mem : Successfull free -- index 21
+Mem : Successfull free -- index 13
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 9
+Mem : Successfull free -- index 8
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 6
+Mem : Successfull free -- index 5
+Mem : Successfull free -- index 12
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+Mem : Successfull free -- index 6
+Mem : Successfull free -- index 5
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 1
+in MAllocWrapper
+Mem : Malloc called -- put in index 1
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+in MAllocWrapper
+Mem : Malloc called -- put in index 9
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+Mem : Successfull free -- index 6
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 9
+Mem : Successfull free -- index 8
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 2
+in MAllocWrapper
+Mem : Malloc called -- put in index 2
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+in MAllocWrapper
+Mem : Malloc called -- put in index 9
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 12
+in MAllocWrapper
+Mem : Malloc called -- put in index 13
+in MAllocWrapper
+Mem : Malloc called -- put in index 15
+in MAllocWrapper
+Mem : Malloc called -- put in index 16
+in MAllocWrapper
+Mem : Malloc called -- put in index 18
+in MAllocWrapper
+Mem : Malloc called -- put in index 20
+in MAllocWrapper
+Mem : Malloc called -- put in index 21
+in MAllocWrapper
+Mem : Malloc called -- put in index 22
+in MAllocWrapper
+Mem : Malloc called -- put in index 23
+Mem : Successfull free -- index 21
+Mem : Successfull free -- index 18
+Mem : Successfull free -- index 23
+Mem : Successfull free -- index 22
+Mem : Successfull free -- index 15
+Mem : Successfull free -- index 12
+Mem : Successfull free -- index 9
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 5
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 20
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 9
+in MAllocWrapper
+Mem : Malloc called -- put in index 12
+Mem : Successfull free -- index 9
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 12
+Mem : Successfull free -- index 5
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 16
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 9
+in MAllocWrapper
+Mem : Malloc called -- put in index 12
+in MAllocWrapper
+Mem : Malloc called -- put in index 15
+in MAllocWrapper
+Mem : Malloc called -- put in index 16
+Mem : Successfull free -- index 15
+Mem : Successfull free -- index 12
+Mem : Successfull free -- index 9
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 16
+Mem : Successfull free -- index 5
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 13
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 5
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 5
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 8
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 5
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+Mem : Successfull free -- index 6
+Mem : Successfull free -- index 5
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 2
+in MAllocWrapper
+Mem : Malloc called -- put in index 2
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+in MAllocWrapper
+Mem : Malloc called -- put in index 9
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 12
+in MAllocWrapper
+Mem : Malloc called -- put in index 13
+in MAllocWrapper
+Mem : Malloc called -- put in index 15
+in MAllocWrapper
+Mem : Malloc called -- put in index 16
+in MAllocWrapper
+Mem : Malloc called -- put in index 18
+in MAllocWrapper
+Mem : Malloc called -- put in index 20
+Mem : Successfull free -- index 18
+Mem : Successfull free -- index 16
+Mem : Successfull free -- index 15
+Mem : Successfull free -- index 13
+Mem : Successfull free -- index 20
+Mem : Successfull free -- index 12
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 9
+Mem : Successfull free -- index 8
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 6
+Mem : Successfull free -- index 5
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 2
+Mem : Successfull free -- index 1
+in MAllocWrapper
+Mem : Malloc called -- put in index 1
+in MAllocWrapper
+Mem : Malloc called -- put in index 2
+Mem : Successfull free -- index 2
+Mem : Successfull free -- index 19
+in MAllocWrapper
+Mem : Malloc called -- put in index 2
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 2
+Mem : Successfull free -- index 1
+in MAllocWrapper
+Mem : Malloc called -- put in index 1
+in MAllocWrapper
+Mem : Malloc called -- put in index 2
+Mem : Successfull free -- index 2
+Mem : Successfull free -- index 1
+Mem : Successfull free -- index 17
+in MAllocWrapper
+Mem : Malloc called -- put in index 1
+in MAllocWrapper
+Mem : Malloc called -- put in index 2
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+in MAllocWrapper
+Mem : Malloc called -- put in index 9
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 12
+in MAllocWrapper
+Mem : Malloc called -- put in index 13
+in MAllocWrapper
+Mem : Malloc called -- put in index 15
+in MAllocWrapper
+Mem : Malloc called -- put in index 16
+in MAllocWrapper
+Mem : Malloc called -- put in index 17
+in MAllocWrapper
+Mem : Malloc called -- put in index 18
+in MAllocWrapper
+Mem : Malloc called -- put in index 19
+in MAllocWrapper
+Mem : Malloc called -- put in index 20
+in MAllocWrapper
+Mem : Malloc called -- put in index 21
+in MAllocWrapper
+Mem : Malloc called -- put in index 22
+in MAllocWrapper
+Mem : Malloc called -- put in index 23
+in MAllocWrapper
+Mem : Malloc called -- put in index 24
+in MAllocWrapper
+Mem : Malloc called -- put in index 25
+in MAllocWrapper
+Mem : Malloc called -- put in index 26
+in MAllocWrapper
+Mem : Malloc called -- put in index 27
+in MAllocWrapper
+Mem : Malloc called -- put in index 28
+in MAllocWrapper
+Mem : Malloc called -- put in index 29
+in MAllocWrapper
+Mem : Malloc called -- put in index 30
+in MAllocWrapper
+Mem : Malloc called -- put in index 31
+in MAllocWrapper
+Mem : Malloc called -- put in index 32
+in MAllocWrapper
+Mem : Malloc called -- put in index 33
+in MAllocWrapper
+Mem : Malloc called -- put in index 34
+in MAllocWrapper
+Mem : Malloc called -- put in index 35
+in MAllocWrapper
+Mem : Malloc called -- put in index 36
+in MAllocWrapper
+Mem : Malloc called -- put in index 37
+in MAllocWrapper
+Mem : Malloc called -- put in index 38
+in MAllocWrapper
+Mem : Malloc called -- put in index 39
+in MAllocWrapper
+Mem : Malloc called -- put in index 40
+in MAllocWrapper
+Mem : Malloc called -- put in index 41
+in MAllocWrapper
+Mem : Malloc called -- put in index 42
+in MAllocWrapper
+Mem : Malloc called -- put in index 43
+in MAllocWrapper
+Mem : Malloc called -- put in index 44
+Mem : Successfull free -- index 44
+Mem : Successfull free -- index 43
+Mem : Successfull free -- index 42
+Mem : Successfull free -- index 40
+Mem : Successfull free -- index 41
+Mem : Successfull free -- index 39
+Mem : Successfull free -- index 38
+Mem : Successfull free -- index 37
+Mem : Successfull free -- index 36
+Mem : Successfull free -- index 35
+Mem : Successfull free -- index 34
+Mem : Successfull free -- index 33
+Mem : Successfull free -- index 32
+Mem : Successfull free -- index 28
+Mem : Successfull free -- index 27
+Mem : Successfull free -- index 26
+Mem : Successfull free -- index 20
+Mem : Successfull free -- index 19
+Mem : Successfull free -- index 18
+Mem : Successfull free -- index 16
+Mem : Successfull free -- index 13
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 9
+Mem : Successfull free -- index 6
+Mem : Successfull free -- index 17
+Mem : Successfull free -- index 21
+Mem : Successfull free -- index 22
+Mem : Successfull free -- index 29
+Mem : Successfull free -- index 8
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 15
+Mem : Successfull free -- index 31
+Mem : Successfull free -- index 5
+Mem : Successfull free -- index 30
+Mem : Successfull free -- index 12
+Mem : Successfull free -- index 24
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 25
+Mem : Successfull free -- index 23
+Mem : Successfull free -- index 2
+Mem : Successfull free -- index 14
+in MAllocWrapper
+Mem : Malloc called -- put in index 2
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+in MAllocWrapper
+Mem : Malloc called -- put in index 9
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+in MAllocWrapper
+Mem : Malloc called -- put in index 12
+in MAllocWrapper
+Mem : Malloc called -- put in index 13
+in MAllocWrapper
+Mem : Malloc called -- put in index 14
+in MAllocWrapper
+Mem : Malloc called -- put in index 15
+in MAllocWrapper
+Mem : Malloc called -- put in index 16
+in MAllocWrapper
+Mem : Malloc called -- put in index 17
+Mem : Successfull free -- index 6
+Mem : Successfull free -- index 2
+Mem : Successfull free -- index 5
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 8
+Mem : Successfull free -- index 9
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 12
+Mem : Successfull free -- index 13
+Mem : Successfull free -- index 14
+Mem : Successfull free -- index 15
+Mem : Successfull free -- index 16
+Mem : Successfull free -- index 17
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 1
+in MAllocWrapper
+Mem : Malloc called -- put in index 1
+in MAllocWrapper
+Mem : Malloc called -- put in index 2
+Mem : Successfull free -- index 2
+Mem : Successfull free -- index 11
+in MAllocWrapper
+Mem : Malloc called -- put in index 2
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+Mem : Successfull free -- index 6
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 1
+in MAllocWrapper
+Mem : Malloc called -- put in index 1
+Mem : Successfull free -- index 1
+Mem : Successfull free -- index 5
+Mem : Successfull free -- index 2
+in MAllocWrapper
+Mem : Malloc called -- put in index 1
+in MAllocWrapper
+Mem : Malloc called -- put in index 2
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 5
+Mem : Successfull free -- index 5
+Mem : Successfull free -- index 2
+Mem : Successfull free -- index 4
+in MAllocWrapper
+Mem : Malloc called -- put in index 2
+Mem : Successfull free -- index 2
+Mem : Successfull free -- index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 2
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 4
+in MAllocWrapper
+Mem : Malloc called -- put in index 5
+Mem : Successfull free -- index 5
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 1
+in MAllocWrapper
+Mem : Malloc called -- put in index 1
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+in MAllocWrapper
+Mem : Malloc called -- put in index 8
+in MAllocWrapper
+Mem : Malloc called -- put in index 9
+in MAllocWrapper
+Mem : Malloc called -- put in index 10
+Mem : Successfull free -- index 10
+Mem : Successfull free -- index 6
+Mem : Successfull free -- index 1
+Mem : Successfull free -- index 9
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 8
+Mem : Successfull free -- index 5
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 4
+Mem : Successfull free -- index 2
+in MAllocWrapper
+Mem : Malloc called -- put in index 1
+in MAllocWrapper
+Mem : Malloc called -- put in index 2
+in MAllocWrapper
+Mem : Malloc called -- put in index 3
+in MAllocWrapper
+Mem : Malloc called -- put in index 4
+in MAllocWrapper
+Mem : Malloc called -- put in index 5
+in MAllocWrapper
+Mem : Malloc called -- put in index 6
+in MAllocWrapper
+Mem : Malloc called -- put in index 7
+Mem : Successfull free -- index 1
+Mem : Successfull free -- index 2
+Mem : Successfull free -- index 5
+Mem : Successfull free -- index 4
+Mem : Successfull free -- index 6
+Mem : Successfull free -- index 3
+Mem : Successfull free -- index 7
+Mem : Successfull free -- index 0
+Thread exiting
+
+Thread exited
+
+
+ == > 
+
+Mem:_Task_Stopping_...
+

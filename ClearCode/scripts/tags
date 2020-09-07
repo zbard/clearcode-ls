@@ -1,0 +1,138 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.4	//
+BLUE	../../ClearCode/platform/include/cc_color.h	17;"	d
+CHAR	../../ClearCode/source/include/cc_data_types.h	/^typedef char CHAR;$/;"	t
+COLOR_PRINT	../../ClearCode/platform/include/cc_platform_abstraction.h	33;"	d
+DEFAULT	../../ClearCode/platform/include/cc_color.h	15;"	d
+DIR_NAME_LIST	../../ClearCode/source/include/cc_data_types.h	/^} DIR_NAME_LIST;$/;"	t
+EFFECTIVE_LEVEL	../../ClearCode/utils/debug/include/xdebug_header.h	24;"	d
+EFFECTIVE_LEVEL	../../ClearCode/utils/debug/include/xdebug_header.h	28;"	d
+EFFECTIVE_LEVEL	../../ClearCode/utils/debug/include/xdebug_header.h	29;"	d
+EFFECTIVE_LEVEL	../../ClearCode/utils/debug/include/xdebug_header.h	33;"	d
+EFFECTIVE_LEVEL	../../ClearCode/utils/debug/include/xdebug_header.h	34;"	d
+EFFECTIVE_LEVEL	../../ClearCode/utils/debug/include/xdebug_header.h	39;"	d
+EFFECTIVE_LEVEL	../../ClearCode/utils/debug/include/xdebug_header.h	40;"	d
+EFFECTIVE_LEVEL	../../ClearCode/utils/debug/include/xdebug_header.h	44;"	d
+EFFECTIVE_LEVEL	../../ClearCode/utils/debug/include/xdebug_header.h	45;"	d
+ERROR_LEVEL	../../ClearCode/utils/debug/include/xdebug_header.h	21;"	d
+EXPAND_EXPRESSIONS	../../ClearCode/platform/include/cc_platform_abstraction.h	31;"	d
+EXPAND_EXPRESSIONS	../../ClearCode/platform/include/cc_platform_abstraction.h	61;"	d
+FALSE	../../ClearCode/source/include/cc_data_types.h	66;"	d
+FILE_NAME_LIST	../../ClearCode/source/include/cc_data_types.h	/^} FILE_NAME_LIST;$/;"	t
+FNAME_SIZE	../../ClearCode/utils/mem_check/mem_check.c	8;"	d	file:
+FNMATCH	../../ClearCode/platform/include/cc_platform_abstraction.h	32;"	d
+FNMATCH	../../ClearCode/platform/include/cc_platform_abstraction.h	62;"	d
+GREEN	../../ClearCode/platform/include/cc_color.h	16;"	d
+INT16	../../ClearCode/source/include/cc_data_types.h	/^typedef short INT16;$/;"	t
+INT32	../../ClearCode/source/include/cc_data_types.h	/^typedef int INT32;$/;"	t
+INT8	../../ClearCode/source/include/cc_data_types.h	/^typedef char INT8;$/;"	t
+LOG_LEVEL	../../ClearCode/utils/debug/include/xdebug_header.h	18;"	d
+LS_DIR_DISPLAY	../../ClearCode/platform/include/cc_platform_abstraction.h	36;"	d
+LS_FILE_DISPLAY	../../ClearCode/platform/include/cc_platform_abstraction.h	35;"	d
+MAGENTA	../../ClearCode/platform/include/cc_color.h	19;"	d
+MAX_ALLOC	../../ClearCode/utils/mem_check/mem_check.c	7;"	d	file:
+MAX_FILES_IN_DIR	../../ClearCode/source/include/cc_config.h	15;"	d
+MAX_FILE_NAME_SIZE	../../ClearCode/source/include/cc_config.h	17;"	d
+MAX_FILE_PATH_SIZE	../../ClearCode/source/include/cc_config.h	16;"	d
+MAX_NUMBER_OF_FILES	../../ClearCode/source/include/cc_config.h	14;"	d
+MEM_LEVEL	../../ClearCode/utils/debug/include/xdebug_header.h	20;"	d
+MEM_SHUT	../../ClearCode/utils/mem_check/include/ext_mem.h	20;"	d
+MEM_SHUT	../../ClearCode/utils/mem_check/include/ext_mem.h	32;"	d
+MEM_START	../../ClearCode/utils/mem_check/include/ext_mem.h	19;"	d
+MEM_START	../../ClearCode/utils/mem_check/include/ext_mem.h	31;"	d
+OPTION_FLAGS	../../ClearCode/source/include/cc_data_types.h	/^} OPTION_FLAGS;$/;"	t
+OUTPUT	../../ClearCode/utils/debug/include/xdebug_header.h	49;"	d
+PLATFORM_LINUX	../../ClearCode/platform/include/cc_platform_abstraction.h	16;"	d
+PLATFORM_LINUX	../../ClearCode/platform/include/cc_platform_abstraction.h	21;"	d
+PrintSortData	../../ClearCode/utils/mem_check/mem_check.c	/^void PrintSortData(void) \/*BAd - i am sorting(bubble) and printing , ll better *\/$/;"	f
+RED	../../ClearCode/platform/include/cc_color.h	18;"	d
+R_flag	../../ClearCode/source/include/cc_data_types.h	/^    UCHAR R_flag;$/;"	m	struct:
+STRIP_PATH	../../ClearCode/platform/include/cc_platform_abstraction.h	34;"	d
+S_flag	../../ClearCode/source/include/cc_data_types.h	/^    UCHAR S_flag;$/;"	m	struct:
+TRUE	../../ClearCode/source/include/cc_data_types.h	65;"	d
+UCHAR	../../ClearCode/source/include/cc_data_types.h	/^typedef unsigned char UCHAR;$/;"	t
+UINT16	../../ClearCode/source/include/cc_data_types.h	/^typedef unsigned short UINT16;$/;"	t
+UINT32	../../ClearCode/source/include/cc_data_types.h	/^typedef unsigned int UINT32;$/;"	t
+UINT8	../../ClearCode/source/include/cc_data_types.h	/^typedef unsigned char UINT8;$/;"	t
+WARNING_LEVEL	../../ClearCode/utils/debug/include/xdebug_header.h	19;"	d
+WHITE	../../ClearCode/platform/include/cc_color.h	20;"	d
+_CC_COLOR_H_	../../ClearCode/platform/include/cc_color.h	12;"	d
+_CC_COMMON_H	../../ClearCode/source/include/cc_common.h	13;"	d
+_CC_CONFIG_H_	../../ClearCode/source/include/cc_config.h	12;"	d
+_CC_DATA_TYPES_H_	../../ClearCode/source/include/cc_data_types.h	12;"	d
+_CC_PLATFORM_ABSTRACTION_H_	../../ClearCode/platform/include/cc_platform_abstraction.h	12;"	d
+_EXT_MEM_H	../../ClearCode/utils/mem_check/include/ext_mem.h	14;"	d
+_XUNIT_HEADER_H_	../../ClearCode/utils/xunit/include/xunit_header.h	12;"	d
+__XDEBUG_HEADER_H_	../../ClearCode/utils/debug/include/xdebug_header.h	11;"	d
+_debug_call	../../ClearCode/utils/debug/xdebug.c	/^int _debug_call( int msglev, const char *msgfmt, ... )$/;"	f
+a_flag	../../ClearCode/source/include/cc_data_types.h	/^    UCHAR a_flag;$/;"	m	struct:
+add_node_to_dir_list	../../ClearCode/source/cc_ls_queue.c	/^void add_node_to_dir_list(DIR_NAME_LIST **ptr_to_first_node, UCHAR* dir_name, UCHAR* path, UCHAR add_sorted_flag)$/;"	f
+add_node_to_file_list	../../ClearCode/source/cc_ls_queue.c	/^void add_node_to_file_list(FILE_NAME_LIST **ptr_to_first_node, UCHAR* file_name, UCHAR* path, UCHAR add_sorted_flag)$/;"	f
+addr	../../ClearCode/utils/mem_check/mem_check.c	/^        void * addr; \/*address*\/$/;"	m	struct:node	file:
+all_tests	../../ClearCode/utils/xunit/xunit_test_cases.c	/^static char * all_tests(void) $/;"	f	file:
+arr	../../ClearCode/utils/mem_check/mem_check.c	/^} arr[MAX_ALLOC];$/;"	v
+c_flag	../../ClearCode/source/include/cc_data_types.h	/^    UCHAR c_flag;$/;"	m	struct:
+cc_parser_getflags	../../ClearCode/source/cc_ls_constraints.c	/^UCHAR cc_parser_getflags(INT32 argc, CHAR **argv,OPTION_FLAGS *options_flags) $/;"	f
+cond	../../ClearCode/utils/mem_check/mem_check.c	/^pthread_cond_t cond;$/;"	v
+cond_1	../../ClearCode/utils/mem_check/mem_check.c	/^pthread_cond_t cond_1;$/;"	v
+cond_2	../../ClearCode/utils/mem_check/mem_check.c	/^pthread_cond_t cond_2;$/;"	v
+counter	../../ClearCode/utils/mem_check/mem_check.c	/^unsigned long int counter=0;$/;"	v
+d_flag	../../ClearCode/source/include/cc_data_types.h	/^    UCHAR d_flag;$/;"	m	struct:
+debug	../../ClearCode/utils/debug/include/xdebug_header.h	53;"	d
+debug	../../ClearCode/utils/debug/include/xdebug_header.h	55;"	d
+dir_list	../../ClearCode/source/include/cc_data_types.h	/^typedef struct dir_list$/;"	s
+dir_name	../../ClearCode/source/include/cc_data_types.h	/^    UCHAR dir_name[MAX_FILE_PATH_SIZE];$/;"	m	struct:dir_list
+dir_name_list	../../ClearCode/source/include/cc_data_types.h	/^    struct dir_list *dir_name_list;$/;"	m	struct:dir_list
+fid	../../ClearCode/utils/mem_check/mem_check.c	/^        int fid;$/;"	m	struct:node	file:
+file_list	../../ClearCode/source/include/cc_data_types.h	/^typedef struct file_list$/;"	s
+file_name	../../ClearCode/source/include/cc_data_types.h	/^    UCHAR file_name[MAX_FILE_PATH_SIZE];$/;"	m	struct:file_list
+file_name_list	../../ClearCode/source/include/cc_data_types.h	/^    struct file_list *file_name_list;$/;"	m	struct:file_list
+flush_dir_queue	../../ClearCode/source/cc_ls_queue.c	/^void flush_dir_queue(DIR_NAME_LIST **ptr_to_first_node, OPTION_FLAGS options_flags)$/;"	f
+flush_file_queue	../../ClearCode/source/cc_ls_queue.c	/^void flush_file_queue(FILE_NAME_LIST **ptr_to_first_node, OPTION_FLAGS options_flags)$/;"	f
+fname	../../ClearCode/utils/mem_check/mem_check.c	/^        char fname[FNAME_SIZE];\/*for '\/0' char *\/$/;"	m	struct:node	file:
+fp	../../ClearCode/utils/xunit/xunit_framework.c	/^static FILE* fp;$/;"	v	file:
+free	../../ClearCode/utils/mem_check/include/ext_mem.h	22;"	d
+ftruncate	../../ClearCode/utils/mem_check/mem_check.c	/^void ftruncate( char * input, char* output)$/;"	f
+h_flag	../../ClearCode/source/include/cc_data_types.h	/^    UCHAR h_flag;$/;"	m	struct:
+i_flag	../../ClearCode/source/include/cc_data_types.h	/^    UCHAR i_flag;$/;"	m	struct:
+is_expression	../../ClearCode/platform/linux/cc_linux_file_walkthrough.c	/^static UCHAR is_expression(CHAR *name)$/;"	f	file:
+l_flag	../../ClearCode/source/include/cc_data_types.h	/^    UCHAR l_flag;$/;"	m	struct:
+line	../../ClearCode/utils/mem_check/mem_check.c	/^        int line;$/;"	m	struct:node	file:
+linux_color_print	../../ClearCode/platform/linux/cc_color.c	/^void linux_color_print(UINT32 color_code,const char *msgfmt, ... )$/;"	f
+linux_expand_expressions	../../ClearCode/platform/linux/cc_linux_file_walkthrough.c	/^void linux_expand_expressions(INT32 argc, CHAR **argv, $/;"	f
+linux_strip_path	../../ClearCode/platform/linux/cc_strip_path.c	/^void linux_strip_path(UCHAR **filename, UCHAR *pathname)$/;"	f
+ls_dir_display	../../ClearCode/platform/linux/cc_linux_display.c	/^void ls_dir_display(DIR_NAME_LIST* dir_node, OPTION_FLAGS options_flags)$/;"	f
+ls_file_display	../../ClearCode/platform/linux/cc_linux_display.c	/^void ls_file_display(UCHAR *filename, OPTION_FLAGS options_flags)$/;"	f
+main	../../ClearCode/scripts/temp/ch.c	/^int main(void)$/;"	f
+main	../../ClearCode/source/cc_ls_main.c	/^int main(int argc, char **argv )$/;"	f
+main	../../ClearCode/utils/xunit/xunit_test_cases.c	/^int main(int argc, char **argv) $/;"	f
+malloc	../../ClearCode/utils/mem_check/include/ext_mem.h	21;"	d
+mem_free_wrapper	../../ClearCode/utils/mem_check/mem_check.c	/^void mem_free_wrapper(void* ptr,char * file,int  line,int fileid)$/;"	f
+mem_init	../../ClearCode/utils/mem_check/mem_check.c	/^void mem_init(unsigned long int val)$/;"	f
+mem_malloc_wrapper	../../ClearCode/utils/mem_check/mem_check.c	/^void* mem_malloc_wrapper(size_t size,  char* file,int line,int fileid)$/;"	f
+mem_pause	../../ClearCode/utils/mem_check/mem_check.c	/^void mem_pause(void)$/;"	f
+mem_play	../../ClearCode/utils/mem_check/mem_check.c	/^void mem_play(void)$/;"	f
+mem_shutdown	../../ClearCode/utils/mem_check/mem_check.c	/^void mem_shutdown(void)$/;"	f
+mem_thread	../../ClearCode/utils/mem_check/mem_check.c	/^void* mem_thread(void* args)$/;"	f
+mutex	../../ClearCode/utils/mem_check/mem_check.c	/^pthread_mutex_t mutex;   \/*init exit*\/$/;"	v
+mutex_1	../../ClearCode/utils/mem_check/mem_check.c	/^pthread_mutex_t mutex_1; \/*start and stop*\/$/;"	v
+mutex_2	../../ClearCode/utils/mem_check/mem_check.c	/^pthread_mutex_t mutex_2; \/*entry restriction*\/$/;"	v
+node	../../ClearCode/utils/mem_check/mem_check.c	/^struct node$/;"	s	file:
+non_case_strcmp	../../ClearCode/source/cc_ls_queue.c	/^static int non_case_strcmp(const void *str1, const void *str2)$/;"	f	file:
+r_flag	../../ClearCode/source/include/cc_data_types.h	/^    UCHAR r_flag;$/;"	m	struct:
+s_flag	../../ClearCode/source/include/cc_data_types.h	/^    UCHAR s_flag;$/;"	m	struct:
+size	../../ClearCode/utils/mem_check/mem_check.c	/^        int size;$/;"	m	struct:node	file:
+stamp	../../ClearCode/utils/mem_check/mem_check.c	/^        unsigned long int stamp;$/;"	m	struct:node	file:
+state	../../ClearCode/utils/mem_check/mem_check.c	/^int state=0;$/;"	v
+test_parser_1	../../ClearCode/utils/xunit/xunit_test_cases.c	/^static char* test_parser_1(void)$/;"	f	file:
+tests_run	../../ClearCode/utils/xunit/xunit_framework.c	/^int tests_run = 0;           $/;"	v
+valid	../../ClearCode/utils/mem_check/mem_check.c	/^        int valid;\/*0 - empty,1-malloc,2-free anamoly *\/$/;"	m	struct:node	file:
+xu_assert	../../ClearCode/utils/xunit/include/xunit_header.h	14;"	d
+xu_run_test	../../ClearCode/utils/xunit/include/xunit_header.h	16;"	d
+xunit_display_end	../../ClearCode/utils/xunit/xunit_framework.c	/^void xunit_display_end(void)$/;"	f
+xunit_display_init	../../ClearCode/utils/xunit/xunit_framework.c	/^void xunit_display_init(void)$/;"	f
+xunit_display_result	../../ClearCode/utils/xunit/xunit_framework.c	/^void xunit_display_result(char *descr, char * str)$/;"	f
